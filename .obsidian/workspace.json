@@ -8,29 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61e8bdfc15480db6",
+            "id": "6a731b244bdd33ab",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "juggl_view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "juggl_view"
+              "icon": "lucide-file",
+              "title": "Juggl"
             }
           },
           {
-            "id": "6a731b244bdd33ab",
+            "id": "03cc08526fd947e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Agentes/10_Mockingbird/Vivian/Vivian Banshee.md",
+                "file": "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldier 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vivian Banshee"
+              "title": "Soldier 11"
             }
           }
         ],
@@ -239,8 +239,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6a731b244bdd33ab",
+  "active": "03cc08526fd947e6",
   "lastOpenFiles": [
+    "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md",
+    "00_Agentes/00_Phaethon/Wise/Wise.md",
+    "00_Agentes/10_Mockingbird/Vivian/Vivian Banshee.md",
     "Zenless_Zone_Zero_Vault",
     "04_Enemigos/Ecos_de_la_Cavidad/Jefes/Tepes.md",
     "04_Enemigos/The_Exaltists/Mevorakh.md",
@@ -259,8 +262,6 @@
     "Proxy.md",
     "02_Lore_Mundo/Academia Helios.md",
     "00_Agentes/00_Phaethon/Belle/Belle.md",
-    "00_Agentes/00_Phaethon/Wise/Wise.md",
-    "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md",
     "00_Agentes/00_Phaethon/Fairy.md",
     "00_Agentes/00_Phaethon/Eous.md",
     "00_Agentes/13_Krampus_Compliance/Dialyn/Dialyn.md",
@@ -276,7 +277,6 @@
     "02_Lore_Mundo/Administracion_Ciudad",
     "00_Agentes/06_Hijos_de_Caladon/Pulchra 1",
     "00_Agentes/16_Escuadron Obol",
-    "03_Localizaciones/Cumbre Yunkui",
     "99_Attachments/Pasted image 20260314145909.png",
     "99_Attachments/Pasted image 20260314144521.png",
     "99_Attachments/Agent_Belle_Portrait.webp",
