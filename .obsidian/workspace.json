@@ -25,16 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldier 11.md",
+                "file": "01_Facciones/Defensa_Nueva_Eridu/Fuerza Defensa Plata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soldier 11"
+              "title": "Fuerza Defensa Plata"
+            }
+          },
+          {
+            "id": "e8af7a3944bc5a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soldado11"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HDD",
+                "query": "silver s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,9 +253,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "03cc08526fd947e6",
+  "active": "e8af7a3944bc5a14",
   "lastOpenFiles": [
     "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md",
+    "00_Agentes/01_Liebres_Astutas/Anby/Soldado 0 - Anby.md",
+    "01_Facciones/Defensa_Nueva_Eridu/Fuerza Defensa Plata.md",
+    "01_Facciones/Defensa_Nueva_Eridu",
+    "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
     "00_Agentes/00_Phaethon/Wise/Wise.md",
     "00_Agentes/10_Mockingbird/Vivian/Vivian Banshee.md",
     "Zenless_Zone_Zero_Vault",
@@ -266,9 +284,6 @@
     "00_Agentes/00_Phaethon/Eous.md",
     "00_Agentes/13_Krampus_Compliance/Dialyn/Dialyn.md",
     "06_TOPS/Krampus Authority.md",
-    "00_Agentes/13_Krampus_Compliance/Zhao/Zhao.md",
-    "Registro de Bajas y Sanciones.md",
-    "01_Facciones/Militia/Isolde.md",
     "02_Lore_Mundo/Tecnologia_Eterica",
     "03_Localizaciones/Nueva Eridu/Janus",
     "04_Enemigos/Facciones_Secundarias",
@@ -276,7 +291,6 @@
     "Sin nombre 1",
     "02_Lore_Mundo/Administracion_Ciudad",
     "00_Agentes/06_Hijos_de_Caladon/Pulchra 1",
-    "00_Agentes/16_Escuadron Obol",
     "99_Attachments/Pasted image 20260314145909.png",
     "99_Attachments/Pasted image 20260314144521.png",
     "99_Attachments/Agent_Belle_Portrait.webp",

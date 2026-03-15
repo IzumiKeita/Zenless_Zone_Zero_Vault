@@ -1,43 +1,59 @@
 ---
 
 ---
+# ⚡ Anby Demara / Soldado 0
 
-# 📂 Perfil: Anby Demara
+**Identidad Real:** Capitana del [[Silver Squad]] (Unidad de Réplicas) **Estado:** Activa (Identidad encubierta en [[Liebres Astutas]]) **Vínculo:** Hermana mayor de [[Soldado11]]
 
-> "El tiempo de espera para esta hamburguesa es de 4 minutos... aceptable."
-
-## 📋 Información de Agente
-
-| **Campo**           | **Datos**                                    |
-| ------------------- | -------------------------------------------- |
-| **Identidad Real**  | **Soldier 0** (Capitana de la Silver Squad)  |
-| **Origen**          | Clon genético / Humano artificial            |
-| **Facción Actual**  | [[Liebres Astutas]]                          |
-| **Facción Antigua** | Obsidian Division ([[Fuerza Defensa Plata]]) |
-| **Intereses**       | Películas (como guía social) y Hamburguesas  |
+> "Si Nicole pregunta, por favor, encúbreme. Las hamburguesas son un alimento notable... no solo porque las ame."
 
 ---
 
-## 📖 Biografía: De Soldado a Liebre
+## 🍔 Presente: La Liebre Astuta (Anby Demara)
 
-Anby no nació, fue creada. Como **Soldier 0**, lideraba la **Silver Squad**, un grupo de clones desechables de la Obsidian Division. Eran soldados perfectos, poderosos y totalmente obedientes.
+Tras ser rescatada por [[Nicole Demara]], Anby adoptó una vida más simple. Su personalidad actual es una construcción basada en películas de serie B para aprender a ser "humana".
 
-### 🛡️ El Sacrificio de las Hermanas
-
-Cuando el alto mando decidió eliminar a todos los clones para ahorrar costes y quedarse solo con una, Anby intentó boicotear las pruebas para salvar a sus "hermanas". Tras una misión suicida donde vio morir a su escuadrón, recibió la orden de matar a su última hermana, Harin (ahora **[[Soldier 11]]**). En un acto de amor puro, Anby prefirió cortarse su propia garganta para que el ejército se viera obligado a quedarse con Soldier 11.
-
-### 🏙️ Una Nueva Vida
-
-Su cuerpo fue desechado en las ruinas de la Vieja Capital. Debido a su naturaleza de clon, las heridas graves causan amnesia retrógrada. Fue rescatada por **[[Nicole Demara]]**, quien le dio su apellido y un hogar. Aunque Anby acabó recordando su pasado, decidió no interferir en la vida de Soldier 11 para no ser una carga.
+- **Personalidad:** Curiosa, pragmática y obsesionada con el balance nutricional de las hamburguesas.
+    
+- **Equipo:** Utiliza un estilo de combate relajado pero eficiente, ocultando su verdadero potencial militar.
+    
+- **Amistades:** Trata a los miembros de Gentle House como su nueva familia, lejos de los códigos numéricos.
+    
 
 ---
 
-## 🕵️ Conexiones de Lore (Para tu Gráfico)
+## ⚔️ Pasado: El Proyecto Soldado 0
 
-- **[[Soldier 11]]:** Su "hermana" clon y la razón de su supuesta muerte. Ahora es parte del [[Escuadron Obol]].
+Antes de la caída de la Vieja Capital, Anby era el **Soldado 0**, el prototipo más perfecto de la **División de Obsidiana**.
+
+### 🛡️ El Sacrificio por Harin ([[Soldado11]])
+
+- **Desobediencia por Amor:** Cuando se le ordenó ejecutar a su última hermana, se cortó su propia garganta para obligar al ejército a salvar a Soldier 11.
     
-- **[[Nicole Demara]]:** Su salvadora y figura materna/jefa.
+- **Naturaleza de Réplica:** Como clon genético, posee una resistencia sobrehumana, pero las heridas críticas dañan su memoria (amnesia retrógrada).
     
-- **[[Fuerza Defensa Plata]]:** Su antigua facción (donde era Soldier 0).
+- **Abandono:** Fue dada por muerta y su cuerpo fue desechado como basura militar en las ruinas.
     
-- **[[Hollow Zero]]:** Sus conocimientos avanzados de las Cavidades provienen de su entrenamiento militar.
+
+---
+
+## 🧪 Equipo Maestro: Gemina
+
+Cuando la situación es extrema, Anby recupera su armamento original:
+
+- **Dualidad:** Un par de espadas gemelas imbuidas en rayos.
+    
+- **Simbolismo:** El nombre **Gemina** representa a las dos hermanas que el destino separó.
+    
+
+---
+
+## 🖇️ Conexiones Críticas (Grafo)
+
+- **[[Soldado11]]:** Conexión de **Hermana de Sangre/Sacrificio**. Soldado 11 cree que es la única superviviente.
+    
+- **[[Nicole Demara]]:** Conexión de **Salvadora**. Le dio una identidad cuando solo era un número.
+    
+- **[[Silver Squad]]:** Su origen militar y el recordatorio de sus hermanas caídas.
+    
+- **[[Trigger]]:** La agente que sospecha de su verdadera identidad y pasado militar.

@@ -25,7 +25,7 @@ El Escuadron Obol es conocido por su hermetismo. Sus miembros suelen utilizar no
 
 | **Agente**                           | **Rol / Notas**                                             |
 | ------------------------------------ | ----------------------------------------------------------- |
-| **[[Soldier 11]]**                   | Soldado modelo. Eficiente, fría y sin pasado aparente.      |
+| **[[Soldado11]]**                   | Soldado modelo. Eficiente, fría y sin pasado aparente.      |
 | **[[Orphie Magnusson]] & [[Magus]]** | Orphie es la líder operativa, siempre acompañada por Magus. |
 | **[[Seed]]**                         | Especialista táctico del equipo.                            |
 | **[[Gatillo]]**                      | Experto en armamento y apoyo de fuego.                      |

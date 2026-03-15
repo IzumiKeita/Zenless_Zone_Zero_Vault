@@ -51,6 +51,6 @@ No utilizan armas externas tradicionales porque Magus **es** el arma:
     
 - **[[Cumbre Yunkui]]:** Tienen una deuda de sangre con esta facción debido al sacrificio de **Yijiang**. Esto explica por qué el Escuadron Obol colabora con ellos en Waifei.
     
-- **[[Soldier 11]]:** Magus confía plenamente en ella, sabiendo que Soldier 11 nunca permitirá que sus emociones nublen su objetivo.
+- **[[Soldado11]]:** Magus confía plenamente en ella, sabiendo que Soldier 11 nunca permitirá que sus emociones nublen su objetivo.
     
 - **[[Phaethon]]:** Magus desconfía profundamente de ellos (como todo buen militar), pero reconoce su utilidad.

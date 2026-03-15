@@ -51,4 +51,4 @@ Aunque no usa armas convencionales, su "herramienta" de combate es el cuerpo ine
     
 - **[[Veronica]]:** La médico de las Fuerzas de Defensa que conoce la verdad sobre su falta de "corazón" biológico/emocional.
     
-- **[[Soldier 11]]:** Actúa como una hermana mayor protectora que llegó a mentir para proteger su inocencia.
+- **[[Soldado11]]:** Actúa como una hermana mayor protectora que llegó a mentir para proteger su inocencia.
