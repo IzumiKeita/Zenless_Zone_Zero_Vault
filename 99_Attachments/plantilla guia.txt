@@ -1,0 +1,21 @@
+
+# 📂 Perfil: [Nombre del Agente]
+![[Imagen_del_Agente.png|150]]
+
+**Elemento:** 🧊 Hielo / 🔥 Fuego / ⚡ Eléctrico / 物理 Físico / ✨ Etéreo
+**Estilo:** Atacante / Aturdidor / Auxiliar / Anomaly / Defensa
+
+---
+
+### ⚔️ Build Óptima
+* **Mejor Motor W:** * **Set de Discos (4):** * **Set de Discos (2):** ### 📊 Estadísticas Prioritarias
+1. **IV:** [Prob. Crítico]
+2. **V:** [Daño Elemental]
+3. **VI:** [Regeneración de Energía / Ataque]
+
+---
+
+### 👥 Sinergias (Equipos)
+* **Compañero 1:** [[Nombre]] (Para activar pasiva)
+* **Compañero 2:** [[Nombre]]
+* **Bangbú recomendado:** [[Nombre]]

@@ -1,0 +1,5 @@
+
+"embedding_models:transformers#1773517425639": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1773517425639,"key":"transformers#1773517425639"},
+"embedding_models:transformers#1773517425639": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1773517425639,"key":"transformers#1773517425639","test_passed":true},
+"embedding_models:transformers#1773518171802": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1773518171802,"key":"transformers#1773518171802","meta":{"name":"mistral-7b-instruct-v0.3"}},
+"embedding_models:transformers#1773518171802": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1773518171802,"key":"transformers#1773518171802","meta":{"name":"mistral-7b-instruct-v0.3"},"test_passed":true},
