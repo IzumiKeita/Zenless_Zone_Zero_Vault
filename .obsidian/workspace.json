@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Agentes/01_Liebres_Astutas/Billy/Billy Kid.md",
+                "file": "01_Facciones/The Vanquishers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Billy Kid"
+              "title": "The Vanquishers"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "astra yao",
+                "query": "Qingyi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -263,14 +263,16 @@
   },
   "active": "e8af7a3944bc5a14",
   "lastOpenFiles": [
-    "Sin título.canvas",
+    "06_TOPS/Krampus Authority.md",
+    "00_Agentes/06_Hijos_de_Caladon/Lighter/Lighter.md",
+    "00_Agentes/05_Equipo_Respuesta_Especial/Qingyi/Qingyi.md",
     "00_Agentes/01_Liebres_Astutas/Billy/Billy Kid.md",
+    "Sin título.canvas",
     "Cronologia Maestra.md",
     "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
     "06_TOPS/High Ambitions Corp.md",
     "00_Agentes/07_Sección_6/Harumasa/Asaba Harumasa.md",
     "01_Facciones/Proxy.md",
-    "00_Agentes/05_Equipo_Respuesta_Especial/Qingyi/Qingyi.md",
     "cronologia.txt",
     "00_Agentes/13_Krampus_Compliance/Banyue/Banyue.md",
     "01_Facciones/Defensa_Nueva_Eridu/Fuerza Defensa Plata.md",
@@ -292,7 +294,6 @@
     "04_Enemigos/Ecos_de_la_Cavidad/Dina.md",
     "08_Cultos/00_The_Exaltis/Landon.md",
     "Los Exaltistas.md",
-    "08_Cultos/00_The_Exaltis/The Exaltists.md",
     "02_Lore_Mundo/Tecnologia_Eterica",
     "03_Localizaciones/Nueva Eridu/Janus",
     "04_Enemigos/Facciones_Secundarias",
