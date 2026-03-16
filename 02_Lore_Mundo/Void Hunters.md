@@ -1,9 +1,3 @@
-Esta información es el "Techo de Poder" y el origen histórico de todo lo que has recopilado hasta ahora. Los **Void Hunters** no son solo guerreros; son los cimientos sobre los cuales se construyó la civilización después del desastre.
-
-Aquí tienes la ficha técnica para tu archivo `Void Hunters.md`. Esta nota debe estar en tu carpeta de **`02_Lore_Mundo`** y ser el nodo principal que conecte con todas las facciones.
-
----
-
 # 🎖️ Título: Void Hunters (Cazadores del Vacío)
 
 **Naturaleza:** El honor más alto y la fuerza más poderosa de Nueva Eridu.

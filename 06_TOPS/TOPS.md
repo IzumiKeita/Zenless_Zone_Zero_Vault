@@ -40,7 +40,7 @@ El consorcio está dirigido por una mesa redonda con una estructura jerárquica 
 
 ## 🖇️ Notas de Contexto Regional
 
-- **Conflicto Histórico:** TOPS fue la fuerza responsable de la expulsión de la facción [[01_Facciones/Cumbre Yunkui]] de sus territorios originales.
+- **Conflicto Histórico:** TOPS fue la fuerza responsable de la expulsión de la facción [[Faccion Cumbre Yunkui]] de sus territorios originales.
     
 - **Control Social:** A través de sus diversas ramas, controlan desde la educación de élite hasta el entretenimiento y la salud de la población de Nueva Eridu.
     

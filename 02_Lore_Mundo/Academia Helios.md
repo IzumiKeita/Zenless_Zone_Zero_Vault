@@ -44,6 +44,6 @@ La academia no solo educaba, sino que experimentaba con sus estudiantes.
 
 - **[[Phaethon]]:** La motivación principal de los hermanos para ser Proxies es recolectar datos para investigar las ruinas de Helios y limpiar el nombre de su maestra, **Carole Arna**.
     
-- **[[01_Facciones/Cumbre Yunkui]]:** Ambas facciones sufrieron la tragedia de hace 11 años. Mientras Yunkui fue expulsada por TOPS, Helios fue destruida físicamente y "borrada" del mapa oficial.
+- **[[Faccion Cumbre Yunkui]]:** Ambas facciones sufrieron la tragedia de hace 11 años. Mientras Yunkui fue expulsada por TOPS, Helios fue destruida físicamente y "borrada" del mapa oficial.
     
 - **[[TOPS Alliance]]:** Es muy probable que las corporaciones de TOPS tengan datos clasificados sobre lo que ocurrió en Helios durante el ataque de "El Creador".

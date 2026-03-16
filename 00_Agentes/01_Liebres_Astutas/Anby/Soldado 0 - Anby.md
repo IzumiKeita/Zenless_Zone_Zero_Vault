@@ -1,6 +1,6 @@
 # ⚡ Personaje: Soldado 0 - Anby
 
-**Nombre Real:** Desconocido (Identidad actual: Anby Demara) **Rango:** S (Versión de combate) | **Atributo:** Eléctrico | **Especialidad:** Aturdimiento **Afiliación:** [[Silver Squad]] (Ex-Capitana) / [[Cunning Hares]]
+**Nombre Real:** Desconocido (Identidad actual: Anby Demara) **Rango:** S (Versión de combate) | **Atributo:** Eléctrico | **Especialidad:** Aturdimiento **Afiliación:** [[Fuerza Defensa Plata]] (Ex-Capitana) / [[Liebres Astutas]]
 
 > "Si Nicole pregunta, por favor, encúbreme."
 
@@ -19,7 +19,7 @@ Antes de unirse a las Liebres Astutas, Anby era el **Soldado 0**, la capitana de
 
 El origen de Anby está marcado por una tragedia que casi borra su existencia:
 
-1. **La Misión Suicida:** Sus superiores ordenaron una misión destinada a eliminar a todo el [[Silver Squad]] para quedarse solo con una unidad. Anby tomó el lugar de **[[Soldado11]]** (Harin) en el despliegue cuando esta se lesionó.
+1. **La Misión Suicida:** Sus superiores ordenaron una misión destinada a eliminar a todo el [[Fuerza Defensa Plata]] para quedarse solo con una unidad. Anby tomó el lugar de **[[Soldado11]]** (Harin) en el despliegue cuando esta se lesionó.
     
 2. **Desobediencia y Amor:** Al regresar como única sobreviviente y recibir la orden de ejecutar a Soldier 11, Anby se degolló a sí misma. Lo hizo para forzar a los militares a mantener viva a su hermana como la "única réplica disponible".
     
@@ -45,6 +45,6 @@ Anby utiliza su antiguo equipo del Silver Squad cuando la situación es crítica
     
 - **[[Soldado11]]:** Conexión de **Hermana de Sangre/Sacrificio**. Soldado 11 no sabe que está viva gracias al suicidio fallido de Anby.
     
-- **[[Silver Squad]]:** La unidad que Anby lideró y luego "destruyó" para salvar a los supervivientes.
+- **[[Fuerza Defensa Plata]]:** La unidad que Anby lideró y luego "destruyó" para salvar a los supervivientes.
     
-- **[[Cunning Hares]]:** Su actual nodo de pertenencia, donde es tratada como un ser humano y no como una herramienta.
+- **[[Liebres Astutas]]:** Su actual nodo de pertenencia, donde es tratada como un ser humano y no como una herramienta.

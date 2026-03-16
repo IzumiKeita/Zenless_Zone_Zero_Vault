@@ -36,7 +36,7 @@ A menudo se le ve ordenando estanterías o recomendando películas de culto a lo
     
 - **Habilidad Especial:** Posee una alta tolerancia a la contaminación por éter durante las sesiones de sincronización profunda.
     
-- **Costumbres:** Es quien se encarga de las cuentas del negocio y de que los suministros de los [[Bangbú]] estén al día.
+- **Costumbres:** Es quien se encarga de las cuentas del negocio y de que los suministros de los [[Bangboo]] estén al día.
     
 
 ---

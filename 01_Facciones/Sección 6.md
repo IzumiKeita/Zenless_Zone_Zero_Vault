@@ -1,3 +1,10 @@
+---
+aliases:
+  - Seccion 6
+  - H.S.O.S.6
+  - HSOS6
+---
+
 # ⚔️ Facción: Hollow Special Operations Section 6 (H.S.O.S.6)
 
 **Líder y Fundadora:** [[Hoshimi Miyabi]]

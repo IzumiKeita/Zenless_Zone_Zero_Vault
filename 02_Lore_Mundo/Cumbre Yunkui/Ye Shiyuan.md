@@ -17,7 +17,7 @@ Shiyuan es analítico, pragmático y, según Pan Yinhu, bastante cínico. A dife
 
 1. **Trauma de la Infancia:** Presenció cómo sus padres fueron corrompidos por el Miasma durante la Caída de la Vieja Capital. Sus pesadillas nunca lo abandonaron del todo.
     
-2. **El Trato con [[Sarah Floren]]:** Creyendo que podía engañar a los **[[Exaltistas]]** y al "Creador", Shiyuan fingió unirse a ellos para destruir al Creador desde dentro. Sin embargo, fue manipulado y terminó convirtiéndose en **"The Thrall"** (un esclavo mental) que atacó a Phaethon y a su propia hermana.
+2. **El Trato con [[Sarah Floren]]:** Creyendo que podía engañar a los **[[The Exaltists]]** y al "Creador", Shiyuan fingió unirse a ellos para destruir al Creador desde dentro. Sin embargo, fue manipulado y terminó convirtiéndose en **"The Thrall"** (un esclavo mental) que atacó a Phaethon y a su propia hermana.
     
 3. **El Descubrimiento Oscuro:** Tras recuperar la consciencia, descubrió la verdad sobre los **Huerfanos del Qingming**: la espada se mantenía mediante sacrificios humanos orquestados por antiguos miembros de la secta (Lu Hengzhou).
     

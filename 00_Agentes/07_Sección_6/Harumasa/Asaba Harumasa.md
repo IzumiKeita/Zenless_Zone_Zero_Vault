@@ -1,6 +1,6 @@
 # 🏹 Agente: Asaba Harumasa
 
-**Rango:** S | **Atributo:** Eléctrico | **Especialidad:** Anomalía **Afiliación:** [[Seccion 6]] (H.S.O.S.6) **Estado de Salud:** Padece el Síndrome de Regresión de Aptitud al Éter.
+**Rango:** S | **Atributo:** Eléctrico | **Especialidad:** Anomalía **Afiliación:** [[Sección 6]] (H.S.O.S.6) **Estado de Salud:** Padece el Síndrome de Regresión de Aptitud al Éter.
 
 > "¡No es pereza, es equilibrio entre vida y trabajo! Equilibrio... ~"
 

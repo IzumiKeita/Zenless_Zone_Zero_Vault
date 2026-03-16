@@ -25,7 +25,7 @@ El Silver Squad no era una unidad militar convencional, sino un experimento para
 
 |**Código**|**Identidad Actual**|**Estatus**|**Notas**|
 |---|---|---|---|
-|**Soldado 0**|**[[Anby Demara]]**|Activa|Líder original. Ahora en las [[Cunning Hares]]. Rechaza el regreso de la unidad.|
+|**Soldado 0**|**[[Anby Demara]]**|Activa|Líder original. Ahora en las [[Liebres Astutas]]. Rechaza el regreso de la unidad.|
 |**Soldado 11**|**[[Soldado11]]**|Activa|Miembro del [[Obol Squad]]. Mantiene la disciplina y busca a los "traidores".|
 |**Twiggy**|**Fallecida**|Enemigo|Perdió sus extremidades, sobrevivió en el mercado negro e intentó recrear el escuadrón.|
 |**Girl A**|**Fallecida**|Miembro|Parte de la versión reformada de Silver Squad que fue detenida.|
@@ -55,4 +55,4 @@ El Silver Squad representa el lado más turbio de la **[[División de Obsidiana]
     
 - **[[N.E.D.F.]]:** La organización que financió y luego borró los registros de este escuadrón.
     
-- **[[Cunning Hares]]:** La familia "adoptiva" que dio a Anby una identidad fuera de su código numérico.
+- **[[Liebres Astutas]]:** La familia "adoptiva" que dio a Anby una identidad fuera de su código numérico.

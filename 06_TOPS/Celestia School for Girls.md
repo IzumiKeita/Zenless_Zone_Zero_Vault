@@ -24,7 +24,7 @@ Celestia es famosa por su exclusividad y sus estrictas medidas de seguridad. Las
 | **Estudiante**           | **Estatus**          | **Notas de Lore**                                                |
 | ------------------------ | -------------------- | ---------------------------------------------------------------- |
 | **[[Alice Thymefield]]** | Estudiante Modelo    | Noble obsesionada con la simetría y experta en esgrima.          |
-| **[[Lucy]]**             | Desertora (Dropout)  | Huyó de la escuela para unirse a los [[Hijos_de_Calidon]].       |
+| **[[Lucy]]**             | Desertora (Dropout)  | Huyó de la escuela para unirse a los [[Hijos de Calidón]].       |
 | **Jacqueline**           | Presidenta Sororidad | Antagonista; líder de la facción de acoso e intimidación.        |
 | **[[Vivian Banshee]]**   | ¿Infiltrada?         | Vista con el uniforme, aunque su vínculo oficial es un misterio. |
 

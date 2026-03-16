@@ -16,7 +16,7 @@ Los **Proxies** son individuos que asisten de forma ilegal a los exploradores de
     
 - **Especialización:** Se encargan de trabajos demasiado arriesgados, turbios o políticamente sensibles para las organizaciones oficiales.
     
-- **Origen:** Se consideran los sucesores espirituales de **[[Joyous]]**, el primer [[Void Hunter]] que aprendió a navegar por las Cavidades.
+- **Origen:** Se consideran los sucesores espirituales de **[[Joyous]]**, el primer [[Void Hunters]] que aprendió a navegar por las Cavidades.
     
 
 ---

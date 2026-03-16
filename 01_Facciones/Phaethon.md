@@ -30,7 +30,7 @@ Tras el hackeo, su flujo de trabajo ha evolucionado:
     
 - **Investigación de las "Llaves":** Su objetivo ha pasado de la simple supervivencia a la búsqueda de la verdad tras el **Alijo Maestro** y la conexión de su familia con la caída de la Vieja Eridu.
     
-- **Gestión de Reputación:** Deben equilibrar misiones de bajo perfil para no levantar sospechas de la administración de la ciudad, mientras aceptan contratos críticos de facciones como la **[[Sección 6]]** o la **[[03_Localizaciones/Cumbre Yunkui/Cumbre Yunkui]]**.
+- **Gestión de Reputación:** Deben equilibrar misiones de bajo perfil para no levantar sospechas de la administración de la ciudad, mientras aceptan contratos críticos de facciones como la **[[Sección 6]]** o la **[[Faccion Cumbre Yunkui]]**.
     
 
 ---

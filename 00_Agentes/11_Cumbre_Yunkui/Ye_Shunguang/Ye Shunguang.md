@@ -1,6 +1,6 @@
 # 🗡️ Void Hunter: Ye Shunguang (Qingming Arbiter)
 
-**Título:** Árbitro de Qingming | **Afiliación:** [[Yunkui Summit]] **Familia:** Hermana menor de [[Ye Shiyuan]] | **Estado:** Activa (Bajo sacrificio constante)
+**Título:** Árbitro de Qingming | **Afiliación:** [[Faccion Cumbre Yunkui]] **Familia:** Hermana menor de [[Ye Shiyuan]] | **Estado:** Activa (Bajo sacrificio constante)
 
 > "Blandiré mi hoja y destrozaré cada hilo del destino."
 
@@ -32,7 +32,7 @@ El título de **Qingming Arbiter** no es solo un honor otorgado por la alcaldesa
     
 - **[[Ye Shiyuan]]:** Su hermana mayor. Aunque Shunguang es más poderosa (Void Hunter), respeta la jerarquía familiar.
     
-- **[[Yunkui Summit]]:** Es el brazo ejecutor de la voluntad de la facción en las Cavidades más peligrosas.
+- **[[03_Localizaciones/Cumbre Yunkui/Cumbre Yunkui|Cumbre Yunkui]]:** Es el brazo ejecutor de la voluntad de la facción en las Cavidades más peligrosas.
     
 - **[[Void Hunters]]:** Comparte el estatus de élite con personajes como **[[Hoshimi Miyabi]]**.
     

@@ -21,7 +21,7 @@ Este "personaje" es en realidad la combinación de dos entidades que comparten u
 
 1. **La Soldado Original:** Antes de la caída de la Vieja Capital, existió una soldado llamada **Orpheus** en el Escuadrón Agamenón, bajo el mando de la Coronel **Isolde**.
     
-2. **El Sacrificio de Yunkui:** Durante el desastre, el Escuadrón Agamenón fue salvado por **Yijiang** (hermana de Yixuan y 12ª Preceptora de la [[Cumbre Yunkui]]), quien murió usando la Espada Qingming para permitir que Isolde y una Orpheus moribunda escaparan.
+2. **El Sacrificio de Yunkui:** Durante el desastre, el Escuadrón Agamenón fue salvado por **Yijiang** (hermana de Yixuan y 12ª Preceptora de la [[Faccion Cumbre Yunkui]]), quien murió usando la Espada Qingming para permitir que Isolde y una Orpheus moribunda escaparan.
     
 3. **División de Alma y Cuerpo:** Orpheus no sobrevivió a sus heridas. Las Fuerzas de Defensa recuperaron su cuerpo y conciencia para un experimento:
     
@@ -49,7 +49,7 @@ No utilizan armas externas tradicionales porque Magus **es** el arma:
 
 - **[[Isolde]]:** Su antigua comandante. La conexión entre el Escuadron Obol y la Coronel Isolde es clave para entender las operaciones militares de alto nivel.
     
-- **[[Cumbre Yunkui]]:** Tienen una deuda de sangre con esta facción debido al sacrificio de **Yijiang**. Esto explica por qué el Escuadron Obol colabora con ellos en Waifei.
+- **[[Faccion Cumbre Yunkui]]:** Tienen una deuda de sangre con esta facción debido al sacrificio de **Yijiang**. Esto explica por qué el Escuadron Obol colabora con ellos en Waifei.
     
 - **[[Soldado11]]:** Magus confía plenamente en ella, sabiendo que Soldier 11 nunca permitirá que sus emociones nublen su objetivo.
     

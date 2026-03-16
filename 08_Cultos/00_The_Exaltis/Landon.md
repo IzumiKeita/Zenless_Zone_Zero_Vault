@@ -37,7 +37,7 @@ A pesar de su muerte, los efectos de sus acciones siguen plagando Nueva Eridu:
     
 - **[[Dina]]:** El resentimiento la consumió, culpando a Vivian y radicalizándose aún más dentro de los remanentes del culto.
     
-- **[[Bringer]]:** El hijo que logró infiltrarse en la **[[N.E.P.S.]]**. Actúa como un "Héroe de la Cavidad" mientras recolecta los restos de la investigación de su padre en secreto.
+- **[[Bringer]]:** El hijo que logró infiltrarse en la **[[Seguridad Publica de Nueva Eridu]]**. Actúa como un "Héroe de la Cavidad" mientras recolecta los restos de la investigación de su padre en secreto.
     
 - **[[Mevorakh]]:** El líder que tomó los fragmentos de la rama Janus para integrarlos en sus planes mayores.
     
@@ -46,13 +46,13 @@ A pesar de su muerte, los efectos de sus acciones siguen plagando Nueva Eridu:
 
 ## 🖇️ Conexiones en tu Grafo de Obsidian
 
-- **[[Los Exaltistas]]:** Landon fue el nodo principal de esta facción en el Barrio Janus.
+- **[[the Exaltists]]:** Landon fue el nodo principal de esta facción en el Barrio Janus.
     
 - **[[Vivian Banshee]]:** Conexión de **Trauma/Traición**.
     
 - **[[Dina]]:** Conexión de **Lealtad Fanática**.
     
-- **[[Bringer]]:** El hilo que conecta el culto con la **[[N.E.P.S.]]**.
+- **[[Bringer]]:** El hilo que conecta el culto con la **[[Seguridad Publica de Nueva Eridu]]**.
     
 - **[[Suero de Sacrificio]]:** (Nota de objeto) El catalizador de la transformación en Etéreo.
     

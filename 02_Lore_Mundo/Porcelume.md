@@ -21,11 +21,11 @@
 
 Varios personajes dependen de este material para su equipo de combate o su propia existencia:
 
-|**Agente**|**Uso del Porcelume**|
-|---|---|
-|**[[Qingyi]]**|Sus partes corporales mecánicas están hechas de este material.|
-|**[[Jane Doe]]**|Sus dagas y las cuchillas de sus botas.|
-|**[[Evelyn Chevalier]]**|Su arma, el _Lunalux Garrote_.|
+| **Agente**               | **Uso del Porcelume**                                          |
+| ------------------------ | -------------------------------------------------------------- |
+| **[[Qingyi]]**           | Sus partes corporales mecánicas están hechas de este material. |
+| **[[Jane Doe]]**         | Sus dagas y las cuchillas de sus botas.                        |
+| **[[Evelyn Chevalier]]** | Su arma, el _Lunalux Garrote_.                                 |
 
 ---
 

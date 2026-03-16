@@ -1,6 +1,6 @@
 # 🐼 Agente: Pan Yinhu
 
-**Afiliación:** [[01_Facciones/Cumbre Yunkui]] | **Raza:** Thiren Panda **Rango:** Segundo Discípulo (Tras el sorteo de Yixuan) | **Rol:** Chef Residente y Gestor de Fondos
+**Afiliación:** [[Faccion Cumbre Yunkui]] | **Raza:** Thiren Panda **Rango:** Segundo Discípulo (Tras el sorteo de Yixuan) | **Rol:** Chef Residente y Gestor de Fondos
 
 > "La fibra limpia el aire turbio, la proteína protege el espíritu primigenio. ¡Nada de comida para llevar!"
 

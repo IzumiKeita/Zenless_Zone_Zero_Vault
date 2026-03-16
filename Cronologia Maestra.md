@@ -52,7 +52,7 @@
 
 ### El sacrificio de Yunkui
 
-- La maestra de Yixuan se sacrifica para detener el avance de [[Hollow Zero|la Cavidad Zero]].
+- La maestra de Yixuan se sacrifica para detener el avance de [[Hollow Zero]].
 
 ### Tragedia militar
 

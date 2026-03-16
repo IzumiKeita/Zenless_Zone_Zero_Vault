@@ -1,6 +1,6 @@
 # 👹 Agente: Soukaku
 
-**Rango:** A | **Atributo:** Hielo | **Especialidad:** Apoyo **Raza:** Oni | **Cargo:** Operativa de la [[Seccion 6]] **Tutora Legal:** [[Tsukishiro Yanagi]]
+**Rango:** A | **Atributo:** Hielo | **Especialidad:** Apoyo **Raza:** Oni | **Cargo:** Operativa de la [[Sección 6]] **Tutora Legal:** [[Tsukishiro Yanagi]]
 
 > "¡No desperdicies la comida! ¡Si no te lo vas a comer tú, me lo como yo!"
 

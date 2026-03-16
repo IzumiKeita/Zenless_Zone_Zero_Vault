@@ -14,12 +14,12 @@ Waifei es una península físicamente separada del centro de Nueva Eridu por el 
 
 ### 📍 Áreas Clave
 
-|**Área**|**Descripción**|**Importancia de Lore**|
-|---|---|---|
-|**Failume Heights**|El núcleo urbano. Calles estrechas, letreros luminosos y cultura _Yamcha_.|Es donde interactúas con los ciudadanos y sientes la tensión social de la zona.|
-|**[[Templo Suibian]]**|Templo antiguo en las montañas.|Tu **Base de Operaciones** secundaria. Aquí vives con la [[01_Facciones/Cumbre Yunkui]].|
-|**Aerospace City**|Zona industrial dentro de la Cavidad Lemniana.|Centro de la conspiración de los **[[Exaltistas]]** y origen del Porcelume.|
-|**Seagaze Road**|Camino costero con vistas al océano.|Conecta la parte urbana con las zonas más salvajes de la península.|
+| **Área**               | **Descripción**                                                            | **Importancia de Lore**                                                             |
+| ---------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Failume Heights**    | El núcleo urbano. Calles estrechas, letreros luminosos y cultura _Yamcha_. | Es donde interactúas con los ciudadanos y sientes la tensión social de la zona.     |
+| **[[Templo Suibian]]** | Templo antiguo en las montañas.                                            | Tu **Base de Operaciones** secundaria. Aquí vives con la [[Faccion Cumbre Yunkui]]. |
+| **Aerospace City**     | Zona industrial dentro de la Cavidad Lemniana.                             | Centro de la conspiración de los **[[The Exaltists]]** y origen del Porcelume.      |
+| **Seagaze Road**       | Camino costero con vistas al océano.                                       | Conecta la parte urbana con las zonas más salvajes de la península.                 |
 
 ---
 
@@ -55,4 +55,4 @@ En este periodo, la dinámica de juego cambia:
     
 - **[[Mevorakh]]:** Su arco de ascensión ocurre en las profundidades de la **Cavidad Lemniana**.
     
-- **[[01_Facciones/Cumbre Yunkui]]:** Son los protectores espirituales de toda la península.
+- **[[Faccion Cumbre Yunkui]]:** Son los protectores espirituales de toda la península.

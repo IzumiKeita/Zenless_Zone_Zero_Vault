@@ -1,6 +1,6 @@
 # 🌀 Cavidad Zero (Hollow Zero)
 
-**Tipo:** Cavidad Original (La Primera y más peligrosa) **Estado:** Activa (Bajo contención constante) **Ubicación:** Centro de la Antigua Eridu **Base de Control:** [[Scott Outpost]]
+**Tipo:** Cavidad Original (La Primera y más peligrosa) **Estado:** Activa (Bajo contención constante) **Ubicación:** Centro de la Antigua Eridu **Base de Control:** [[Puesto de Avanzada Scott]]
 
 > "El origen de todo desastre y el recordatorio constante de nuestra fragilidad."
 
@@ -50,7 +50,7 @@ En un acto desesperado para detener la expansión, los líderes de Eridu detonar
 
 ### 🖇️ Conexiones en tu Grafo de Obsidian
 
-- **[[Scott Outpost]]:** El nodo de ubicación principal desde donde se accede a la cavidad.
+- **[[Puesto de Avanzada Scott]]:** El nodo de ubicación principal desde donde se accede a la cavidad.
     
 - **[[Phaethon]]:** Conexión de **"Investigación Prohibida"**. Los hermanos buscan limpiar el nombre de Carole Arna.
     

@@ -6,7 +6,7 @@
 
 ## 📋 Perfil: La Heredera del Odio
 
-Dina es la cara de la tragedia familiar dentro de **[[Los Exaltistas]]**. Tras la muerte de su padre, su vida se convirtió en una cruzada personal para reivindicar el nombre de **[[Landon]]** y superar a Vivian en todo.
+Dina es la cara de la tragedia familiar dentro de **[[The Exaltists]]**. Tras la muerte de su padre, su vida se convirtió en una cruzada personal para reivindicar el nombre de **[[Landon]]** y superar a Vivian en todo.
 
 - **Envidia Patológica:** Creció a la sombra del "don" de Vivian, desarrollando un complejo de inferioridad que la llevó a rechazar cualquier intento de ayuda, incluso de su cuidadora **[[Camille]]**.
     

@@ -11,7 +11,7 @@
 | **Ocupación**       | Gerente de [[Random Play]]                                                                     |
 | **Hermano**         | [[Wise]]                                                                                       |
 | **IA Asociada**     | [[Fairy]]                                                                                      |
-| **Afiliaciones**    | [[Random Play]], [[01_Facciones/Cumbre Yunkui\|Cumbre Yunkui]], [[Academia Helios]], [[Proxy]] |
+| **Afiliaciones**    | [[Random Play]], [[Faccion Cumbre Yunkui\|Cumbre Yunkui]], [[Academia Helios]], [[Proxy]] |
 
 ---
 

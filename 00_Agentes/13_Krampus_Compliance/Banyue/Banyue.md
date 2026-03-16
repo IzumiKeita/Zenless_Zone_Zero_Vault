@@ -1,6 +1,6 @@
 # 🧘‍♂️ Personaje: Banyue
 
-**Nombre en Clave:** Purge Unit - Type Zero | **Afiliación:** [[Krampus Authority]] (Actual) / Aliado de [[Cumbre Yunkui]] **Naturaleza:** Máquina sapiente de la antigua civilización (Originalmente desarrollada por **TOPS**).
+**Nombre en Clave:** Purge Unit - Type Zero | **Afiliación:** [[Krampus Authority]] (Actual) / Aliado de [[Faccion Cumbre Yunkui]] **Naturaleza:** Máquina sapiente de la antigua civilización (Originalmente desarrollada por **TOPS**).
 
 > "Saber que no hay orilla al final de este mar de sufrimiento es precisamente por lo que remar a través de él se convierte en la prueba de nuestra existencia."
 

@@ -42,4 +42,4 @@ La venganza de Mevorakh diezmó la mesa redonda de TOPS y la cúpula militar. Pu
     
 - **[[Sarah Floren]]:** Fue su sucesora. Sarah heredó la "Marca del Creador" tras la muerte de Mevorakh.
     
-- **[[01_Facciones/Cumbre Yunkui]]:** Mevorakh manipuló los recuerdos de **Yijiang** para crear un monstruo etéreo, obligando a **Yixuan** a intervenir.
+- **[[Faccion Cumbre Yunkui]]:** Mevorakh manipuló los recuerdos de **Yijiang** para crear un monstruo etéreo, obligando a **Yixuan** a intervenir.

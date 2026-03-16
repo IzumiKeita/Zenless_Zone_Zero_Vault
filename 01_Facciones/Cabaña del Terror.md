@@ -62,4 +62,4 @@ La facción se especializa en la **Manipulación de Estados**:
     
 - **[[Victoria Housekeeping]]:** Ambas facciones comparten una estética refinada, pero una se enfoca en el servicio y la otra en el exorcismo.
     
-- **[[N.E.P.S.]]:** La Cabaña del Terror suele encargarse de los casos que la policía normal cataloga como "inexplicables".
+- **[[Seguridad Publica de Nueva Eridu]]:** La Cabaña del Terror suele encargarse de los casos que la policía normal cataloga como "inexplicables".

@@ -32,7 +32,7 @@ La **Celestia School for Girls** es una institución educativa de élite bajo el
 
 Estas estudiantes representan el vínculo entre la élite de TOPS y las facciones actuales:
 
-- **[[Luciana de Montefio]] (Lucy):** Dejó la vida de lujo para unirse a los [[Sons of Calydon]].
+- **[[Luciana de Montefio]] (Lucy):** Dejó la vida de lujo para unirse a los [[Hijos de Calidón]].
     
 - **[[Vivian Banshee]]:** Ahora parte de la facción [[Mockingbird]].
     

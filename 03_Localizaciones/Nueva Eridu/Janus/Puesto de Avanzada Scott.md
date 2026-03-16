@@ -6,13 +6,13 @@
 
 ## 📋 Descripción General
 
-El **Puesto de Avanzada Scott** es un campamento base militar estratégico ubicado en la periferia de la **[[Cavidad Zero]]**. Su propósito es doble: monitorear y contener la anomalía etérea más peligrosa del mundo y mantener operativos los **[[Pilares Shiyu]]** (Pilares Shiyu).
+El **Puesto de Avanzada Scott** es un campamento base militar estratégico ubicado en la periferia de la **[[Hollow Zero]]**. Su propósito es doble: monitorear y contener la anomalía etérea más peligrosa del mundo y mantener operativos los **[[Pilares Shiyu]]** (Pilares Shiyu).
 
 Es una zona de alta seguridad donde convergen las organizaciones más poderosas de la ciudad:
 
 - **[[Fuerza de Defensa de Nueva Eridu]] (N.E.D.F.):** Encargada de la seguridad perimetral.
     
-- **[[H.A.N.D.]] / [[Seccion 6]]:** Realizan las operaciones de incursión más profundas.
+- **[[H.A.N.D.]] / [[Sección 6]]:** Realizan las operaciones de incursión más profundas.
     
 - **[[H.I.A.]] (Asociación de Investigación de Cavidades):** Gestiona a los investigadores independientes.
     

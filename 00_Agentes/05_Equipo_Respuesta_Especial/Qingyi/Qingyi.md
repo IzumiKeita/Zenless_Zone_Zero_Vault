@@ -45,6 +45,6 @@ Es un bastón de tres secciones modificado por ella misma a partir de una porra 
     
 - **[[Porcelume]]:** Conexión de **Composición**. Qingyi es un ejemplo viviente de la durabilidad de este material de la Temporada 2.
     
-- **[[Instituto White Star]]:** Sus creadores/restauradores originales.
+- **[[White Star Institute]]:** Sus creadores/restauradores originales.
     
 - **[[Phaethon]]:** Los trata con una mezcla de sospecha profesional y curiosidad filosófica, viéndolos como piezas interesantes en el tablero de Nueva Eridu.

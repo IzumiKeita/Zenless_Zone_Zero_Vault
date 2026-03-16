@@ -41,7 +41,7 @@ El Escuadron Obol es conocido por su hermetismo. Sus miembros suelen utilizar no
 
 ## 🖇️ Conexiones de Lore (Para tu Grafo)
 
-- **[[Fuerzas de Defensa de Nueva Eridu]]:** Es su organización matriz.
+- **[[Fuerza Defensa Plata]]:** Es su organización matriz.
     
 - **[[Anby Demara]]:** Existe una conexión implícita fuerte (Soldier 0 vs Soldier 11). Debes trazar una línea de "Vínculo Misterioso" entre ellas.
     

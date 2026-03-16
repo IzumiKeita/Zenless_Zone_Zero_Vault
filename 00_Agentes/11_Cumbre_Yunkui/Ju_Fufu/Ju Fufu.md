@@ -1,6 +1,6 @@
 # 🐯 Agente: Ju Fufu
 
-**Afiliación:** [[Yunkui Summit]] | **Raza:** Thiren Tigre **Rango:** Discípula Senior | **Acompañante:** Hu Wei (Máquina de palomitas)
+**Afiliación:** [[Faccion Cumbre Yunkui]] | **Raza:** Thiren Tigre **Rango:** Discípula Senior | **Acompañante:** Hu Wei (Máquina de palomitas)
 
 > "¡Dominar las técnicas no es fácil, deja que tu senior te eche una garra!"
 
@@ -30,10 +30,10 @@ Su pasado está ligado a uno de los eventos más oscuros de Nueva Eridu:
 
 ## 🖇️ Conexiones de Lore (Para tu Gráfico)
 
-- **[[Yunkui Summit]]:** Su hogar y facción. Es la mentora de sus "juniors" **Ye Shiyuan** y **Pan Yinhu**.
+- **[[03_Localizaciones/Cumbre Yunkui/Cumbre Yunkui|Cumbre Yunkui]]:** Su hogar y facción. Es la mentora de sus "juniors" **Ye Shiyuan** y **Pan Yinhu**.
     
 - **[[The Exaltists]]:** Enemigos jurados. Intentaron explotar su linaje casi extinto para sus experimentos.
     
-- **[[Suibian Temple]]:** Ubicado en el **[[Throne Quarter]]**, es donde reside actualmente tras el regreso de la facción a la ciudad.
+- **[[Templo Suibian]]:** Ubicado en el **[[Throne Quarter]]**, es donde reside actualmente tras el regreso de la facción a la ciudad.
     
 - **[[Phaethon]]:** Se considera su amiga y mentora senior desde que los hermanos se unieron a las filas de Yunkui Summit.

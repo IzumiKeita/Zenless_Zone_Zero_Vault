@@ -16,7 +16,7 @@
 
 ## 📖 Resumen de la Facción
 
-Fundada por la astuta **Nicole**, esta agencia opera bajo el lema de aceptar cualquier encargo siempre que el pago sea suficiente. Aunque oficialmente están registrados como "Gentle House", su estilo poco ortodoxo y mañoso les ganó el apodo de **Cunning Hares** (Liebres Astutas) en las calles de Nueva Eridu, un nombre que Nicole acabó adoptando con orgullo.
+Fundada por la astuta **Nicole**, esta agencia opera bajo el lema de aceptar cualquier encargo siempre que el pago sea suficiente. Aunque oficialmente están registrados como "Gentle House", su estilo poco ortodoxo y mañoso les ganó el apodo de **Liebres Astutas** (Liebres Astutas) en las calles de Nueva Eridu, un nombre que Nicole acabó adoptando con orgullo.
 
 A pesar de ser un grupo pequeño y estar siempre al borde de la quiebra, sus miembros poseen habilidades individuales de élite que los hacen indispensables para misiones de alto riesgo en las Cavidades.
 

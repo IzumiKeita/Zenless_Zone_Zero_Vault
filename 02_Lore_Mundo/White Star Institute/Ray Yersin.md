@@ -6,7 +6,7 @@
 
 ## 📋 Perfil: La Científica Obsesiva
 
-Ray es el motor intelectual detrás de la contención y el estudio de la **[[Cavidad Zero]]**. Es una mujer pragmática hasta el extremo, capaz de ignorar protocolos de seguridad y éticos si eso significa avanzar en su comprensión del Éter.
+Ray es el motor intelectual detrás de la contención y el estudio de la **[[Hollow Zero]]**. Es una mujer pragmática hasta el extremo, capaz de ignorar protocolos de seguridad y éticos si eso significa avanzar en su comprensión del Éter.
 
 - **El Fin Justifica los Medios:** No duda en colaborar con figuras ilegales como los Proxies ([[Phaethon]]) si su equipo oficial de investigación resulta ser demasiado lento o limitado por la burocracia.
     
@@ -19,7 +19,7 @@ Ray es el motor intelectual detrás de la contención y el estudio de la **[[Cav
 
 ## 📜 Eventos Clave y Riesgos
 
-1. **Desaparición en el Vacío:** Durante los eventos de "Lost Void", Ray se adentró sola en la **[[Cavidad Zero]]** sin autorización. Su objetivo era obtener datos directos de **Geppetto**, arriesgando su vida y su estatus legal.
+1. **Desaparición en el Vacío:** Durante los eventos de "Lost Void", Ray se adentró sola en la **[[Hollow Zero]]** sin autorización. Su objetivo era obtener datos directos de **Geppetto**, arriesgando su vida y su estatus legal.
     
 2. **Supervivencia Crítica:** Logró sobrevivir y regresar con información sobre la inteligencia avanzada de los Etéreos, aunque esto la puso en la mira como posible traidora ante los ojos de la administración.
     
@@ -43,7 +43,7 @@ Ray es el motor intelectual detrás de la contención y el estudio de la **[[Cav
     
 - **[[Phaethon]]:** Conexión de **"Alianza por Conveniencia"**. Ella les provee recompensas a cambio de datos crudos de la Cavidad.
     
-- **[[Cavidad Zero]]:** El objeto central de su obsesión y estudio.
+- **[[Hollow Zero]]:** El objeto central de su obsesión y estudio.
     
 - **[[White Star Institute]]:** Su organización matriz, aunque ella opera con una autonomía casi rebelde.
     

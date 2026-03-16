@@ -23,13 +23,13 @@ Eran la banda más poderosa y respetada del Anillo Exterior hasta los eventos de
 
 ## 👥 Miembros Clave
 
-|**Miembro**|**Rol**|**Destino**|
-|---|---|---|
-|**[[Pompey]]**|Ex-Líder / Overlord|Traicionado y transformado en Etéreo. Fallecido.|
-|**[[Lucius]]**|Segundo al mando|Antagonista. Conspiró con corporaciones de la ciudad.|
-|**[[Mors]]**|Saboteador|Colaborador de Lucius en los planes de sabotaje.|
-|**[[Bellum]]**|Operativo|Rival de Lighter; sigue activo como mercenario.|
-|**[[Pulchra]]**|Espía (Contratada)|Desertó y se unió a los [[Hijos de Calidón]].|
+| **Miembro**             | **Rol**             | **Destino**                                           |
+| ----------------------- | ------------------- | ----------------------------------------------------- |
+| **[[Pompey]]**          | Ex-Líder / Overlord | Traicionado y transformado en Etéreo. Fallecido.      |
+| **[[Lucius]]**          | Segundo al mando    | Antagonista. Conspiró con corporaciones de la ciudad. |
+| **[[Mors]]**            | Saboteador          | Colaborador de Lucius en los planes de sabotaje.      |
+| **[[Bellum]]**          | Operativo           | Rival de Lighter; sigue activo como mercenario.       |
+| **[[Pulchra Fellini]]** | Espía (Contratada)  | Desertó y se unió a los [[Hijos de Calidón]].         |
 
 ---
 

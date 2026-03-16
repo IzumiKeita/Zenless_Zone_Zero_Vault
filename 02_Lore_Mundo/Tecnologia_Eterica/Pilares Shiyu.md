@@ -47,7 +47,7 @@ Desde el balcón del **[[Puesto de Avanzada Scott]]**, se pueden observar estas 
 
 - **[[Hollow Zero]]:** Los pilares rodean este nodo para contenerlo.
     
-- **[[Scott Outpost]]:** Es la central de monitoreo de los pilares cercanos.
+- **[[Puesto de Avanzada Scott]]:** Es la central de monitoreo de los pilares cercanos.
     
 - **[[Fuerza de Defensa de Nueva Eridu]]:** Son los responsables de su mantenimiento y defensa.
     

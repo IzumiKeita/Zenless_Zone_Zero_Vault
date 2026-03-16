@@ -36,6 +36,6 @@ A diferencia de lo que creían inicialmente los hermanos, los registros de Miasm
     
 - **[[The Exaltists]]:** Facción con la que Carole colaboró para investigar a "The Creator".
     
-- **[[01_Facciones/Cumbre Yunkui]]:** El Alcalde Mayflower pidió a Phaethon unirse a la investigación de Yunkui para buscar a Carole tras ver una foto de ella rodeada de Miasma.
+- **[[Faccion Cumbre Yunkui]]:** El Alcalde Mayflower pidió a Phaethon unirse a la investigación de Yunkui para buscar a Carole tras ver una foto de ella rodeada de Miasma.
     
 - **[[Armas de Void Hunter]]:** Ella acuñó el término para armas legendarias como _Tailless_ y la _Espada Qingming_.

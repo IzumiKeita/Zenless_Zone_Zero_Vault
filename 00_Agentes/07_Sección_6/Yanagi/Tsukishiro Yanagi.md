@@ -1,12 +1,12 @@
 # 📑 Agente: Tsukishiro Yanagi
 
-**Rango:** S | **Atributo:** Eléctrico | **Especialidad:** Anomalía **Cargo:** Vicejefa de la [[Seccion 6]] (H.S.O.S.6) **Naturaleza:** Ex-soldado de la Fuerza de Defensa con sangre de **Oni**.
+**Rango:** S | **Atributo:** Eléctrico | **Especialidad:** Anomalía **Cargo:** Vicejefa de la [[Sección 6]] (H.S.O.S.6) **Naturaleza:** Ex-soldado de la Fuerza de Defensa con sangre de **Oni**.
 
 > "El peso de una promesa es lo que me mantiene en pie durante las horas extras."
 
 ## 📋 Perfil: La Guardiana Metódica
 
-Yanagi es el pilar que sostiene a la [[Seccion 6]]. Como ex-miembro de la **División Obsidian** de la Fuerza de Defensa, aporta una experiencia militar que equilibra las excentricidades del equipo.
+Yanagi es el pilar que sostiene a la [[Sección 6]]. Como ex-miembro de la **División Obsidian** de la Fuerza de Defensa, aporta una experiencia militar que equilibra las excentricidades del equipo.
 
 - **Sangre de Oni:** Durante la rebelión Oni, recibió la sangre de la sucesora del líder rebelde en un pacto para detener la guerra. Esto le otorgó una fuerza superior y la carga de proteger a los de su especie.
     
@@ -23,7 +23,7 @@ Yanagi es el pilar que sostiene a la [[Seccion 6]]. Como ex-miembro de la **Divi
     
 2. **Fin de la Guerra:** Tras ser capturada, pactó con la agonizante líder Oni para proteger a su pueblo. Al aceptar su sangre, Yanagi puso fin al conflicto y se convirtió en la guardiana legal de [[Soukaku]].
     
-3. **Ascenso en H.A.N.D.:** Ya conocía a [[Hoshimi Miyabi]] por colaboraciones previas. Tras el incidente de **Argos Hollow**, donde estuvo dispuesta a detonar el Pilar Shiyu si Miyabi fallaba, fue transferida a la [[Seccion 6]] para limpiar la corrupción de la ciudad.
+3. **Ascenso en H.A.N.D.:** Ya conocía a [[Hoshimi Miyabi]] por colaboraciones previas. Tras el incidente de **Argos Hollow**, donde estuvo dispuesta a detonar el Pilar Shiyu si Miyabi fallaba, fue transferida a la [[Sección 6]] para limpiar la corrupción de la ciudad.
     
 4. **El Incidente VR:** Fue la pieza clave para rescatar a su equipo cuando el grupo de Proxies **Null_Face** hackeó los sistemas de la [[H.I.A.]], demostrando que su voluntad es tan inquebrantable como su naginata.
     

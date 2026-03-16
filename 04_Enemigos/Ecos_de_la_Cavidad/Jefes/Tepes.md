@@ -36,7 +36,7 @@ La caída de Tepes es el clímax emocional del arco **"Entierra tus lágrimas co
     
 2. **Liberación de Vivian:** Al derrotar a la forma monstruosa de su hermana de crianza, Vivian Banshee logra finalmente cerrar el ciclo de culpa y trauma que la mantenía atada al culto.
     
-3. **Advertencia para el Futuro:** Tepes queda registrado como la prueba irrefutable de que el Suero de Sacrificio puede borrar la humanidad en segundos, sirviendo de base para las futuras investigaciones de la [[N.E.P.S.]].
+3. **Advertencia para el Futuro:** Tepes queda registrado como la prueba irrefutable de que el Suero de Sacrificio puede borrar la humanidad en segundos, sirviendo de base para las futuras investigaciones de la [[Seguridad Publica de Nueva Eridu]].
     
 
 ---

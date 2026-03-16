@@ -1,3 +1,10 @@
+---
+aliases:
+  - the Exaltists
+  - Exaltists
+  - Exaltistas
+---
+
 # 👁️ Facción: The Exaltists (Iglesia de la Alabanza)
 
 **Naturaleza:** Culto Religioso / Organización Terrorista | **Objetivo:** La evolución humana a través de las Cavidades.

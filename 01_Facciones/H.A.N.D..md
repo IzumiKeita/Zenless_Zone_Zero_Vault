@@ -47,7 +47,7 @@ Existen operativos que trabajan de forma transversal o en departamentos aún por
 
 - **[[Hoshimi Miyabi]]:** Como jefa de la Sección 6, es una de las figuras más prominentes dentro del organigrama de HSO.
     
-- **[[Scott Outpost]]:** El nodo de ubicación donde H.A.N.D. ejerce su control militar.
+- **[[Puesto de Avanzada Scott]]:** El nodo de ubicación donde H.A.N.D. ejerce su control militar.
     
 - **[[Phaethon]]:** Conexión de **"Jurisdicción Superior"**. H.A.N.D. tiene la autoridad para confiscar cualquier dato de Cavidad que Phaethon recolecte.
     

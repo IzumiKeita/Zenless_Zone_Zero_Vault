@@ -6,7 +6,7 @@
 
 ## 📋 Descripción General
 
-El **Inter-Knot** es una red social y profesional clandestina utilizada por los [[Proxies]] y sus clientes en Nueva Eridu. Aunque existen redes abiertas (Internet convencional), el Inter-Knot funciona como una "Dark Web" especializada para actividades fuera del control de la [[H.I.A.]].
+El **Inter-Knot** es una red social y profesional clandestina utilizada por los [[Proxy]] y sus clientes en Nueva Eridu. Aunque existen redes abiertas (Internet convencional), el Inter-Knot funciona como una "Dark Web" especializada para actividades fuera del control de la [[H.I.A.]].
 
 ### Secciones Principales:
 

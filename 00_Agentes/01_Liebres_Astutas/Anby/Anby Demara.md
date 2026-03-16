@@ -3,7 +3,7 @@
 ---
 # ⚡ Anby Demara / Soldado 0
 
-**Identidad Real:** Capitana del [[Silver Squad]] (Unidad de Réplicas) **Estado:** Activa (Identidad encubierta en [[Liebres Astutas]]) **Vínculo:** Hermana mayor de [[Soldado11]]
+**Identidad Real:** Capitana del [[Fuerza Defensa Plata]] (Unidad de Réplicas) **Estado:** Activa (Identidad encubierta en [[Liebres Astutas]]) **Vínculo:** Hermana mayor de [[Soldado11]]
 
 > "Si Nicole pregunta, por favor, encúbreme. Las hamburguesas son un alimento notable... no solo porque las ame."
 
@@ -54,6 +54,6 @@ Cuando la situación es extrema, Anby recupera su armamento original:
     
 - **[[Nicole Demara]]:** Conexión de **Salvadora**. Le dio una identidad cuando solo era un número.
     
-- **[[Silver Squad]]:** Su origen militar y el recordatorio de sus hermanas caídas.
+- **[[Fuerza Defensa Plata]]:** Su origen militar y el recordatorio de sus hermanas caídas.
     
-- **[[Trigger]]:** La agente que sospecha de su verdadera identidad y pasado militar.
+- **[[Gatillo]]:** La agente que sospecha de su verdadera identidad y pasado militar.
