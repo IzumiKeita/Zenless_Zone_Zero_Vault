@@ -43,10 +43,10 @@
       }
     },
     {
-      "query": "file: ",
+      "query": "file:Cronologia maestra",
       "color": {
         "a": 1,
-        "rgb": 43775
+        "rgb": 16514816
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 8.22916666666667,
   "linkStrength": 0.697916666666667,
   "linkDistance": 150,
-  "scale": 0.9999999999999342,
-  "close": true
+  "scale": 0.4155696601735692,
+  "close": false
 }

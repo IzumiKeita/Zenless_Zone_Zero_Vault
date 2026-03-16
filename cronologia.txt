@@ -1,0 +1,53 @@
+⏳ Línea de Tiempo de Nueva Eridu
+La historia se divide en tres grandes bloques. El punto de referencia es la Caída de la Antigua Capital (hace 11 años).
+
+1. Era de la Antigua Civilización y Fundación (~140 a 43 años atrás)
+Origen de los Inmortales: Se crean Qingyi y Billy Kid. Aparecen las primeras Cavidades tras una gran guerra.
+
+Los 7 Void Hunters: Siete héroes fundan la ciudad de Eridu. Entre ellos:
+
+"Swordmaster": Ancestro de Miyabi, derrota al Supervisor de los Exaltistas usando la katana Tailless.
+
+"Sunbringer": Creador de los Bangboo.
+
+"Joyous": Define el concepto de Proxies.
+
+2. Era de Eridu (De 42 a 11 años atrás)
+Nacimiento de Belobog: Khors Belobog funda la industria y adopta a Grace. Anton y Ben se unen más tarde.
+
+El Ascenso del "Héroe de la Cavidad": Justin Bringer salva a una joven Zhu Yuan en una Cavidad. Tras sobrevivir milagrosamente a la corrupción, se une a los Exaltistas en secreto y se infiltra en Seguridad Pública.
+
+El Pasado de HAND: Harumasa es abandonado debido a su "Síndrome de Regresión de Aptitud al Éter" y entrenado por un maestro que acaba convertido en un Etéreo (Thracian).
+
+Phaethon: Wise y Belle son acogidos en la Academia Helios por Carole Arna, quien crea a Eous y el sistema HDD.
+
+3. La Caída de la Antigua Capital (Hace 11 años)
+Este es el evento cataclísmico que detona el lore actual:
+
+El Sacrificio de Yunkui: La maestra de Yixuan se sacrifica para detener el avance de la Cavidad Zero.
+
+Tragedia Militar: Los escuadrones Lyre y Nemesis son aniquilados. Trigger sobrevive con los ojos dañados. La Defensa es masacrada, sobreviviendo solo la División de Obsidiana.
+
+Nacimiento de una Ídolo: Astra Yao es rescatada y decide convertirse en cantante para sanar corazones tras el desastre.
+
+4. Era de Nueva Eridu (Hace 11 años al Presente)
+El Drama de las Réplicas: Se crea el Silver Squad. Anby (Soldado 0) se "suicida" para salvar a Soldado 11, es rescatada por Nicole y fundan las Liebres Astutas.
+
+Mockingbird: Hugo Vlad y Lycaon fundan el grupo de ladrones guante blanco, pero se separan tras una tragedia familiar orquestada por el padre de Hugo.
+
+La Caída de Landon: Vivian Banshee expone los experimentos de Landon (padre de Dina), causando su muerte y el colapso de la rama de Janus de los Exaltistas.
+
+Fundación de la Sección 6: Miyabi, Yanagi y Harumasa forman la unidad de élite tras las hazañas de Miyabi como Void Hunter.
+
+🖇️ Cómo implementarlo en tu Obsidian
+Te sugiero crear una nota llamada [[Cronología Maestra]] y usar los Canvas (lienzos) de Obsidian para dibujar esta línea.
+
+Puntos de conexión clave para tu grafo:
+
+[[Carole Arna]]: Conecta a los Proxies con la Academia Helios y los Exaltistas (quienes la secuestraron).
+
+[[Landon]]: El punto de origen para Vivian, Dina y el Suero de Sacrificio.
+
+[[Silver Squad]]: El nexo entre Anby, Soldado 11 y la División de Obsidiana.
+
+[[Justin Bringer]]: La conexión entre Zhu Yuan (Seguridad Pública) y el culto de los Exaltistas.
