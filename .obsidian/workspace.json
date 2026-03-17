@@ -1,59 +1,20 @@
 {
   "main": {
-    "id": "05b93746a60e83e7",
+    "id": "ffb826a86f1c7a0b",
     "type": "split",
     "children": [
       {
-        "id": "c22b29b8c376451c",
+        "id": "ce23588a762c5db9",
         "type": "tabs",
         "children": [
           {
-<<<<<<< Updated upstream
-            "id": "9722da38c62a1e70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06_TOPS/TOPS Alliance.md",
-=======
-            "id": "03cc08526fd947e6",
+            "id": "bd068bf1c2827452",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "e8af7a3944bc5a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "TOPS Alliance"
-=======
-              "title": "Soldado11"
->>>>>>> Stashed changes
-            }
-          },
-          {
-            "id": "0dcfa8827986cbdb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
             }
           }
         ]
@@ -62,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "864b97f90af9c87d",
+    "id": "46c0acb1842909e7",
     "type": "split",
     "children": [
       {
-        "id": "1264cdb268e8c370",
+        "id": "5a64fd183a79b817",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b3f8aae1cfa6e9",
+            "id": "f70517a5c6213f32",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,15 +44,15 @@
             }
           },
           {
-            "id": "247b8af0704a3cd8",
+            "id": "5d2cf7ada4110482",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "N.E.D.F",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -100,7 +61,7 @@
             }
           },
           {
-            "id": "89e5bd01c12f4591",
+            "id": "7538dd01277f428c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "5fcc87c31e02e230",
+    "id": "b692679d708ef67c",
     "type": "split",
     "children": [
       {
-        "id": "85518bc6cb234355",
+        "id": "9004aa37117d297d",
         "type": "tabs",
         "children": [
           {
-            "id": "84314d305f669405",
+            "id": "2fb06f6a5035af20",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Agentes/10_Mockingbird/Vivian/Vivian Banshee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Vivian Banshee"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "4aa70cf5c7874d4a",
+            "id": "e6d67e34eaf5749d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Agentes/10_Mockingbird/Vivian/Vivian Banshee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Vivian Banshee"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "3fd59124d70cfc4a",
+            "id": "83dda453fce897fb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,7 +131,7 @@
             }
           },
           {
-            "id": "027c4b63b531ebd6",
+            "id": "f246447df39a5704",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -186,62 +145,21 @@
             }
           },
           {
-            "id": "245082fe74bcb930",
+            "id": "60f119642e00ecd0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Agentes/10_Mockingbird/Vivian/Vivian Banshee.md",
-                "followCursor": true,
-                "showSearch": true,
+                "followCursor": false,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Vivian Banshee"
+              "title": "Esquema"
             }
           },
           {
-            "id": "236abee8c6bd249e",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_nodes"
-            }
-          },
-          {
-            "id": "8f957bea765e0576",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
-            }
-          },
-          {
-            "id": "a32ae50239f25c88",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_nodes"
-            }
-          },
-          {
-            "id": "016c76d5dc20664a",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
-            }
-          },
-          {
-            "id": "7d26d4da995bc6de",
+            "id": "fd4c9d2bbc2b5104",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -251,7 +169,7 @@
             }
           },
           {
-            "id": "bf48644890b1791b",
+            "id": "2b1cf4b9cb43569b",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -260,12 +178,11 @@
               "title": "Juggl style"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 423.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -281,83 +198,12 @@
       "juggl:Juggl global graph": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "9722da38c62a1e70",
+  "active": "bd068bf1c2827452",
   "lastOpenFiles": [
-    "01_Facciones/Defensa_Nueva_Eridu/Fuerza Defensa Plata.md",
-    "01_Facciones/Defensa_Nueva_Eridu/Fuerza de Defensa de Nueva Eridu.md",
-    "01_Facciones/Defensa_Nueva_Eridu/Equipo de Respuesta Especial de Investigación Criminal..md",
-    "01_Facciones/H.A.N.D..md",
-    "Fuerzas de Defensa de Nueva Eridu.md",
-    "03_Localizaciones/Nueva Eridu/Janus/Puesto de Avanzada Scott.md",
-    "01_Facciones/Defensa_Nueva_Eridu/División Obsidiana.md",
-    "01_Facciones/Defensa_Nueva_Eridu/Obsidiana.md",
-    "01_Facciones/Sección 6.md",
-    "Seccion 6.md",
-    "01_Facciones/Defensa_Nueva_Eridu/Seguridad Publica de Nueva Eridu.md",
-    "N.E.P.S..md",
-    "Cronologia Maestra.md",
+    "07_Academia_Helios/Professor Arche.md",
     "07_Academia_Helios/Carole Arna.md",
-    "01_Facciones/Phaethon.md",
-    "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
-    "08_Cultos/00_The_Exaltis/Justin Bringer.md",
-    "02_Lore_Mundo/White Star Institute/White Star Institute.md",
-    "00_Agentes/00_Phaethon/Wise/Wise.md",
-    "03_Localizaciones/Nueva Eridu/Janus/Janus Quarter.md",
-    "08_Cultos/00_The_Exaltis/Landon.md",
-    "01_Facciones/Cabaña del Terror.md",
-    "02_Lore_Mundo/White Star Institute/No. 4412.md",
-    "02_Lore_Mundo/Hollow Zero.md",
-    "04_Enemigos/Facciones_Secundarias/Banda Colmillo Rojo.md",
+    "08_Cultos/00_The_Exaltis/Exaltist Overseer.md",
     "00_Agentes/01_Liebres_Astutas/Anby/Soldado 0 - Anby.md",
-    "Sin título.canvas",
-    "cronologia.txt",
-    "01_Facciones/Defensa_Nueva_Eridu",
-    "Zenless_Zone_Zero_Vault",
-    "04_Enemigos/Ecos_de_la_Cavidad/Jefes",
-=======
-  "active": "03cc08526fd947e6",
-  "lastOpenFiles": [
-    "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
-    "01_Facciones/Phaethon.md",
-    "01_Facciones/Defensa_Nueva_Eridu/Fuerza Defensa Plata.md",
-    "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md",
-    "00_Agentes/01_Liebres_Astutas/Anby/Soldado 0 - Anby.md",
-    "01_Facciones/Defensa_Nueva_Eridu",
-    "00_Agentes/00_Phaethon/Wise/Wise.md",
-    "00_Agentes/10_Mockingbird/Vivian/Vivian Banshee.md",
-    "Zenless_Zone_Zero_Vault",
-    "04_Enemigos/Ecos_de_la_Cavidad/Jefes/Tepes.md",
-    "04_Enemigos/The_Exaltists/Mevorakh.md",
-    "04_Enemigos/Ecos_de_la_Cavidad/Jefes/Ye Shiyuan the Thrall.md",
-    "04_Enemigos/Ecos_de_la_Cavidad/The Creator.md",
-    "04_Enemigos/Ecos_de_la_Cavidad/Jefes",
-    "04_Enemigos/Ecos_de_la_Cavidad/Dina.md",
-    "08_Cultos/00_The_Exaltis/Landon.md",
-    "Los Exaltistas.md",
-    "08_Cultos/00_The_Exaltis/The Exaltists.md",
-    "02_Lore_Mundo/Inter-Knot.md",
-    "01_Facciones/Proxy.md",
-    "Inter-Knot.md",
-    "05_Phaethon_System/H.D.D..md",
-    "Proxy.md",
-    "02_Lore_Mundo/Academia Helios.md",
-    "00_Agentes/00_Phaethon/Belle/Belle.md",
-    "00_Agentes/00_Phaethon/Fairy.md",
-    "00_Agentes/00_Phaethon/Eous.md",
-    "00_Agentes/13_Krampus_Compliance/Dialyn/Dialyn.md",
-    "06_TOPS/Krampus Authority.md",
->>>>>>> Stashed changes
-    "02_Lore_Mundo/Tecnologia_Eterica",
-    "03_Localizaciones/Nueva Eridu/Janus",
-    "04_Enemigos/Facciones_Secundarias",
-    "04_Enemigos/Ecos_de_la_Cavidad",
-    "Sin nombre 1",
-    "02_Lore_Mundo/Administracion_Ciudad",
-    "99_Attachments/Pasted image 20260314145909.png",
-    "99_Attachments/Pasted image 20260314144521.png",
-    "99_Attachments/Agent_Belle_Portrait.webp",
-    "99_Attachments/Pasted image 20260314144424.png",
-    "00_Agentes/00_Phaethon/Wise/99_Attachments/Pasted image 20260314144309.png"
+    "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md"
   ]
 }

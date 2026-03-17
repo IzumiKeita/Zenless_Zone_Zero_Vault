@@ -5,65 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:00_Agentes/01_Liebres_Astutas  ",
-      "color": {
-        "a": 1,
-        "rgb": 11863526
-      }
-    },
-    {
-      "query": "path:00_Agentes/02_Industrias_Belobog  ",
-      "color": {
-        "a": 1,
-        "rgb": 16755200
-      }
-    },
-    {
-      "query": "path:00_Agentes/00_Phaethon  ",
-      "color": {
-        "a": 1,
-        "rgb": 2303
-      }
-    },
-    {
-      "query": "path:00_Agentes/03_Victoria_Housekeeping  ",
-      "color": {
-        "a": 1,
-        "rgb": 5908684
-      }
-    },
-    {
-      "query": "path:06_TOPS  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "file:Cronologia maestra",
-      "color": {
-        "a": 1,
-        "rgb": 16514816
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.354166666666667,
-  "repelStrength": 8.22916666666667,
-  "linkStrength": 0.697916666666667,
-  "linkDistance": 150,
-<<<<<<< Updated upstream
-  "scale": 0.816825457945635,
-=======
-  "scale": 0.3628873693011875,
->>>>>>> Stashed changes
-  "close": true
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5087618855792582,
+  "close": false
 }
