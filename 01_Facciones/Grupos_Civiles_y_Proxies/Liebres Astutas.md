@@ -22,12 +22,12 @@ A pesar de ser un grupo pequeño y estar siempre al borde de la quiebra, sus mie
 
 ### 🎭 Los Miembros y sus Monikers
 
-|**Agente**|**Apodo en las Calles**|**Inspiración Criminal**|
-|---|---|---|
-|[[Nicole Demara]]|"Gravity Warden"|Estafadores / Líderes de bandas|
-|[[Anby Demara]]|"Electric Geek"|Impostores (Ferdinand Demara)|
-|[[Billy Kid]]|"The White Chariot"|Forajidos del Viejo Oeste|
-|[[Nekomiya Mana]]|(Nekomiya Mana)|Ladrones de guante blanco (Cat Burglar)|
+| **Agente**        | **Apodo en las Calles** | **Inspiración Criminal**                |
+| ----------------- | ----------------------- | --------------------------------------- |
+| [[Nicole Demara]] | "Gravity Warden"        | Estafadores / Líderes de bandas         |
+| [[Anby Demara]]   | "Electric Geek"         | Impostores (Ferdinand Demara)           |
+| [[Billy Kid]]     | "The White Chariot"     | Forajidos del Viejo Oeste               |
+| [[Nekomiya Mana]] | (Nekomiya Mana)         | Ladrones de guante blanco (Cat Burglar) |
 
 ---
 

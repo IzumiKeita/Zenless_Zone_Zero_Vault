@@ -19,7 +19,7 @@ Sunbringer no es una agente común que acepte encargos cotidianos. Como líder d
 
 1. **La Primera Generación:** Fue de las primeras en recibir el título de **Void Hunter**. Su historia es fundamental para entender cómo Nueva Eridu sobrevivió tras la **[[Caida de la Vieja Capital]]**.
     
-2. **El Duelo con la Oscuridad:** Su enfrentamiento pasado con **[[El Creador]]** es una pieza clave del lore. El hecho de que una parte de su poder fuera robada para crear al "Mensajero" explica por qué es una de las pocas personas que entiende la verdadera magnitud de la amenaza de los **[[The Exaltists]]**.
+2. **El Duelo con la Oscuridad:** Su enfrentamiento pasado con **[[The Creator]]** es una pieza clave del lore. El hecho de que una parte de su poder fuera robada para crear al "Mensajero" explica por qué es una de las pocas personas que entiende la verdadera magnitud de la amenaza de los **[[The Exaltists]]**.
     
 3. **Misión Actual:** Como NPC, actúa como mentora o aliada estratégica en las misiones de alto rango de la Temporada 2. Es quien otorga acceso a ciertas zonas de la **[[Hollow Zero]]** que están fuera del mapa estándar.
     

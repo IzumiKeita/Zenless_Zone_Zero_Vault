@@ -2,7 +2,7 @@
 
 **Nombre Completo:** Defense Force - Escuadron Obol
 
-**Afiliación:** [[División Obsidian]] (Fuerzas de Defensa de Nueva Eridu)
+**Afiliación:** [[División Obsidiana]] (Fuerzas de Defensa de Nueva Eridu)
 
 **Lema:** _"Dar paz a los vivos y hablar por los muertos."_
 
@@ -43,7 +43,7 @@ El Escuadron Obol es conocido por su hermetismo. Sus miembros suelen utilizar no
 
 - **[[Fuerza Defensa Plata]]:** Es su organización matriz.
     
-- **[[Anby Demara]]:** Existe una conexión implícita fuerte (Soldier 0 vs Soldier 11). Debes trazar una línea de "Vínculo Misterioso" entre ellas.
+- **[[Soldado 0 - Anby]]:** Existe una conexión implícita fuerte (Soldier 0 vs Soldier 11). Debes trazar una línea de "Vínculo Misterioso" entre ellas.
     
 - **[[Throne Quarter]]:** Como unidad militar oficial, su cuartel general y órdenes provienen de la zona administrativa de la ciudad.
     

@@ -14,7 +14,7 @@ Este equipo es la élite de la **policía civil**. A diferencia de las fuerzas m
 
 - **Capitana:** [[Zhu Yuan]] (Líder estricta, pero con un sentido del deber inquebrantable).
     
-- **Base de Operaciones:** Plaza Lumina. Su presencia busca inspirar confianza, aunque a menudo se ven limitados por la burocracia de [[TOPS]].
+- **Base de Operaciones:** Plaza Lumina. Su presencia busca inspirar confianza, aunque a menudo se ven limitados por la burocracia de [[TOPS Alliance]].
     
 
 ---

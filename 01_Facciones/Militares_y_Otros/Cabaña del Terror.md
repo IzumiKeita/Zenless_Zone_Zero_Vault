@@ -56,7 +56,7 @@ La facción se especializa en la **Manipulación de Estados**:
 
 ### 🖇️ Conexiones de Lore (Para tu Grafo)
 
-- **[[01_Facciones/Celestia School for Girls|Celestia School for Girls]]:** El vínculo principal de Alice. Conecta esta facción con el nodo de la escuela de élite.
+- **[[Celestia School for Girls|Celestia School for Girls]]:** El vínculo principal de Alice. Conecta esta facción con el nodo de la escuela de élite.
     
 - **[[Lucy]]:** Alice y Lucy representan dos caminos diferentes de las "chicas ricas" de Nueva Eridu.
     

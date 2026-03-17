@@ -53,7 +53,7 @@ Sus técnicas no solo son de combate, sino que incluyen fines benévolos como:
 
 - **[[Templo Suivian]]:** Su base operativa recientemente restablecida.
     
-- **[[TOPS]]:** La corporación antagonista responsable de su exilio.
+- **[[TOPS Alliance]]:** La corporación antagonista responsable de su exilio.
     
 - **[[Península de Waifei]]:** El territorio que juraron proteger.
     

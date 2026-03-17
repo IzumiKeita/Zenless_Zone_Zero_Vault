@@ -2,7 +2,7 @@
 
 **Tipo:** Institución Educativa de Élite (Solo para señoritas)
 
-**Subsidiaria de:** [[High Ambitions Corp]] / **[[TOPS]]**
+**Subsidiaria de:** [[High Ambitions Corp]] / **[[TOPS Alliance]]**
 
 **Emblema:** Luna creciente con alas y estrella de cuatro puntas.
 
@@ -43,7 +43,7 @@ La academia ha sido el escenario de conflictos que marcaron la personalidad de l
 
 ### 🖇️ Conexiones de Lore (Para tu Grafo)
 
-- **[[TOPS]]:** La alianza corporativa que financia la escuela. Representa el destino "preestablecido" del que Lucy huyó.
+- **[[TOPS Alliance]]:** La alianza corporativa que financia la escuela. Representa el destino "preestablecido" del que Lucy huyó.
     
 - **[[Lucy]]:** Explica su rebeldía. La escuela es la antítesis del Outer Ring.
     

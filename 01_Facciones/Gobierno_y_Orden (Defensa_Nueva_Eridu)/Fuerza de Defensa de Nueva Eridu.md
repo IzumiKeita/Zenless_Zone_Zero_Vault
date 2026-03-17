@@ -40,10 +40,10 @@ Históricamente, la Defensa tenía múltiples divisiones, pero la **Caída de la
 
 ## 👥 Escuadrones Clave y Agentes
 
-|**Escuadrón**|**Descripción**|**Miembros Destacados**|
-|---|---|---|
-|**[[Silver Squad]]**|(Escuadrón Plateado) Antiguo equipo de réplicas. Casi aniquilado.|**[[Anby Demara]]** (Soldado 0), **[[Soldier 11]]**|
-|**[[Obol Squad]]**|(Escuadrón Óbolo) Unidad táctica de élite especializada en incursiones profundas.|**[[Soldier 11]]**, **[[Trigger]]**, **[[Magus]]**|
+| **Escuadrón**                | **Descripción**                                                                   | **Miembros Destacados**                                 |
+| ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **[[Fuerza Defensa Plata]]** | (Escuadrón Plateado) Antiguo equipo de réplicas. Casi aniquilado.                 | **[[Soldado 0 - Anby]]** (Soldado 0), **[[Soldado11]]** |
+| **[[Escuadron Obol]]**       | (Escuadrón Óbolo) Unidad táctica de élite especializada en incursiones profundas. | **[[Soldado11]]**, **[[Trigger]]**, **[[Magus]]**       |
 
 > 💡 **Nota de Gameplay:** Para efectos de sinergia en combate, todos los agentes de la N.E.D.F. cuentan como la misma facción. Por ejemplo, la habilidad pasiva de **Soldier 11** se activa si **Anby** está en el equipo, aunque pertenezcan a escuadrones distintos.
 
@@ -64,10 +64,10 @@ La N.E.D.F. es vista con desconfianza por los ciudadanos de Nueva Eridu:
 
 ## 🖇️ Conexiones en tu Grafo de Obsidian
 
-- **[[Anby Demara]]:** El hilo que une la Defensa con la vida civil y las **[[Cunning Hares]]**.
+- **[[Anby Demara]]:** El hilo que une la Defensa con la vida civil y las **[[Liebres Astutas]]**.
     
-- **[[Soldier 11]]:** El soldado leal que encarna los valores (y el peligro) de la **División Obsidiana**.
+- **[[Soldado11]]:** El soldado leal que encarna los valores (y el peligro) de la **División Obsidiana**.
     
 - **[[Hollow Zero]]:** El lugar que definió la historia de la facción y eliminó a las demás divisiones.
     
-- **[[N.E.P.S.]]:** Relación de **Cooperación/Tensión**. La policía a veces depende del poder militar de la N.E.D.F., pero desconfía de sus métodos secretos.
+- **[[Fuerza de Defensa de Nueva Eridu]]:** Relación de **Cooperación/Tensión**. La policía a veces depende del poder militar de la N.E.D.F., pero desconfía de sus métodos secretos.

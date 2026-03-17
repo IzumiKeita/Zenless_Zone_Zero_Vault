@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38f73109f9125156",
+        "id": "34442328b7eaf671",
         "type": "tabs",
         "children": [
           {
-            "id": "67e56873307f4bba",
+            "id": "0ae8a2c881618727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anby Demara.md",
+                "file": "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/Fuerza de Defensa de Nueva Eridu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anby Demara"
+              "title": "Fuerza de Defensa de Nueva Eridu"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "High Ambitions Academy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 579.5
   },
   "right": {
     "id": "b692679d708ef67c",
@@ -205,19 +205,79 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "67e56873307f4bba",
+  "floating": {
+    "id": "06c7e5a74e7fa5c1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "27c2d4f2ba76837e",
+        "type": "window",
+        "children": [
+          {
+            "id": "73fdfd31d47c04e8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fde34649de580787",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Vista gráfica"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 133,
+        "y": 22,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0ae8a2c881618727",
   "lastOpenFiles": [
-    "Cronologia Maestra.md",
-    "Anby Demara.md",
-    "00_Agentes/04_Escuadron_Obol/Trigger/Gatillo.md",
-    "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
-    "00_Agentes/01_Liebres_Astutas/Anby/Anby - Soldado 0.md",
-    "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md",
-    "00_Agentes/01_Liebres_Astutas/Anby/Soldado 0 - Anby.md",
-    "06_TOPS/Localización Celestia School for Girls.md",
+    "01_Facciones/Alianza_TOPS (Corporaciones)/Celestia School for Girls.md",
     "01_Facciones/Celestia School for Girls.md",
-    "07_Academia_Helios/Professor Arche.md",
-    "07_Academia_Helios/Carole Arna.md",
-    "08_Cultos/00_The_Exaltis/Exaltist Overseer.md"
+    "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/Fuerza de Defensa de Nueva Eridu.md",
+    "N.E.P.S..md",
+    "02_Lore_Mundo/Anby - Soldado 0.md",
+    "04_Enemigos/Ecos_de_la_Cavidad/The Creator.md",
+    "00_Agentes/02_Industrias_Belobog/Koleda/Koleda Belobog.md",
+    "Koleda.md",
+    "El Creador.md",
+    "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/División Obsidiana.md",
+    "División Obsidian.md",
+    "00_Agentes/00_Phaethon/Wise/Wise.md",
+    "01_Facciones/Grupos_Civiles_y_Proxies/Liebres Astutas.md",
+    "00_Agentes/09_Fuerza_Defensa_Plata/Soldado_0_Anby/Soldado 0 - Anby.md",
+    "01_Facciones/Militares_y_Otros/Escuadron Obol.md",
+    "Soldado 0.md",
+    "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/Fuerza Defensa Plata.md",
+    "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md",
+    "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/Sin título.canvas",
+    "estructura.txt",
+    "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/Seguridad Publica de Nueva Eridu.md",
+    "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/Equipo de Respuesta Especial de Investigación Criminal..md",
+    "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/H.A.N.D..md",
+    "01_Facciones/Alianza_TOPS (Corporaciones)/H.A.N.D..md",
+    "01_Facciones/Militares_y_Otros/Isolde.md",
+    "01_Facciones/Militares_y_Otros/Faccion Cumbre Yunkui.md",
+    "01_Facciones/Militares_y_Otros/Cabaña del Terror.md",
+    "01_Facciones/Isolde.md",
+    "01_Facciones/Militares_y_Otros",
+    "01_Facciones/Nueva carpeta",
+    "01_Facciones/El_Exterior (Outer_Rim)",
+    "01_Facciones/Grupos_Civiles_y_Proxies",
+    "01_Facciones/Alianza_TOPS (Corporaciones)",
+    "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)",
+    "06_TOPS/Gubernamental",
+    "06_TOPS/Educación",
+    "06_TOPS/Corporaciones"
   ]
 }

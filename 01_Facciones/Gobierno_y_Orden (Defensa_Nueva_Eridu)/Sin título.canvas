@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"109acf6fbf468d02","x":-125,"y":-30,"width":250,"height":290,"type":"text","text":"> Tanto el **ERIEIC** como **H.A.N.D.** colaboran en operaciones de alto riesgo en las Cavidades, pero el ERIEIC se centra en la **jurisdicción criminal** mientras que H.A.N.D. se encarga de la **supresión de desastres**.\""},
+		{"id":"4e1dfb1731d985e6","x":-620,"y":-300,"width":400,"height":400,"color":"#3218f7","type":"file","file":"01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/Equipo de Respuesta Especial de Investigación Criminal..md"},
+		{"id":"8fe1d3d2d8a2c8e1","x":220,"y":-200,"width":400,"height":400,"type":"file","file":"01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/H.A.N.D..md"}
+	],
+	"edges":[
+		{"id":"70bb6afdfb9ba913","fromNode":"109acf6fbf468d02","fromSide":"top","toNode":"4e1dfb1731d985e6","toSide":"right"},
+		{"id":"c499050dbcdeb09c","fromNode":"109acf6fbf468d02","fromSide":"top","toNode":"8fe1d3d2d8a2c8e1","toSide":"left"}
+	]
+}

@@ -47,4 +47,4 @@ A pesar de su baja estatura, su estilo de combate es pesado y protector:
     
 - **[[Ye Shunguang]]:** Conexión de "Sinergia en Combate". Zhao actúa como el escudo que permite a la guerrera de Yunkui desatar su poder.
     
-- **[[TOPS]]:** Zhao es el "Perro Guardián" que se asegura de que ninguna empresa de la alianza se desvíe de los márgenes de beneficio legales.
+- **[[TOPS Alliance]]:** Zhao es el "Perro Guardián" que se asegura de que ninguna empresa de la alianza se desvíe de los márgenes de beneficio legales.

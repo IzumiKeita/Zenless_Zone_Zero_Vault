@@ -32,13 +32,13 @@ La verdad sobre su origen cambió en la **Versión 1.6** con la revelación del 
 
 ## 🖇️ Conexiones Críticas (Para tu Grafo)
 
-- **[[Anby Demara]] (Soldier 0):** Su conexión más fuerte. Línea de "Rivalidad / Hermandad oculta".
+- **[[Anby - Soldado 0]] (Soldier 0):** Su conexión más fuerte. Línea de "Rivalidad / Hermandad oculta".
     
 - **[[Escuadron Obol]]:** Su familia actual. Línea de "Lealtad militar".
     
 - **[[Phaethon]]:** Los considera su ancla de realidad. Línea de "Confianza absoluta" (les pidió que siempre le recordaran su nombre).
     
-- **[[Fuerzas de Defensa]]:** El nodo superior que la creó y que intentó "desecharla" originalmente.
+- **[[Fuerza de Defensa de Nueva Eridu]]:** El nodo superior que la creó y que intentó "desecharla" originalmente.
     
 
 ---

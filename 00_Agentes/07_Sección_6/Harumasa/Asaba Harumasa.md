@@ -23,7 +23,7 @@ Harumasa es un arquero experto que combina el uso del arco y la espada con una m
     
 2. **Academia de Seguridad:** Fue cadete senior de **[[Seth Lowell]]** en la Academia de Entrenamiento de Seguridad Pública antes de unirse al **[[H.A.N.D.]]**.
     
-3. **El Incidente de Argos:** Fue testigo de cómo **[[Hoshimi Miyabi]]** se convirtió en Void Hunter. Al ver que ella priorizaba la justicia sobre las órdenes de [[TOPS]], aceptó ser transferido a la recién formada Sección 6 para operar fuera de la interferencia corporativa.
+3. **El Incidente de Argos:** Fue testigo de cómo **[[Hoshimi Miyabi]]** se convirtió en Void Hunter. Al ver que ella priorizaba la justicia sobre las órdenes de [[TOPS Alliance]], aceptó ser transferido a la recién formada Sección 6 para operar fuera de la interferencia corporativa.
     
 
 ---
@@ -47,4 +47,4 @@ Su arma es un arco compuesto de doble hoja diseñado por encargo para evitar el 
     
 - **[[Seth Lowell]]:** Relación de **Senpai/Kohai**. Harumasa fue su mentor en la academia.
     
-- **[[TOPS]]:** Los odia profundamente por ser los responsables de la desaparición de su "Maestro".
+- **[[TOPS Alliance]]:** Los odia profundamente por ser los responsables de la desaparición de su "Maestro".

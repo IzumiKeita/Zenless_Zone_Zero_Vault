@@ -19,7 +19,7 @@ Belobog es un grupo industrial emergente en Nueva Eridu. No son simples construc
 
 ### 📉 Caída y Renacimiento
 
-Bajo el mando de **Khors Belobog**, la empresa alcanzó éxitos legendarios hasta que un "accidente mayor" y la misteriosa desaparición de Khors hundieron la reputación de la compañía. Ahora, con **[[Koleda]]** al mando, el equipo lucha no solo por construir edificios, sino por reconstruir el honor de su apellido y recuperar su antigua gloria.
+Bajo el mando de **Khors Belobog**, la empresa alcanzó éxitos legendarios hasta que un "accidente mayor" y la misteriosa desaparición de Khors hundieron la reputación de la compañía. Ahora, con **[[Koleda Belobog]]** al mando, el equipo lucha no solo por construir edificios, sino por reconstruir el honor de su apellido y recuperar su antigua gloria.
 
 ### 🤖 El Factor Humano y Mecánico
 

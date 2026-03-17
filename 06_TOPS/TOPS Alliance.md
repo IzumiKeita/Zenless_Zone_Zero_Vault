@@ -1,42 +1,79 @@
+## [[TOPS Alliance]]
+
+Esta nota ahora integra el trasfondo estratégico y la estructura de gobernanza.
+
 # 📂 Alianza: TOPS Alliance
 
-> "Seleccionamos entre las masas y guiamos la llegada de un nuevo mundo."
+> "The embodiment of humanity's wealth. Seleccionamos entre las masas y guiamos la llegada de un nuevo mundo."
 
-## 🏛️ El Triunvirato (The Three Pacts)
+## 📋 Resumen Ejecutivo
 
-La mesa redonda que dirige el consorcio está compuesta por tres pilares fundamentales:
+**TOPS** (_The Outstanding Paragons Alliance_) es un consorcio masivo que agrupa a los conglomerados más poderosos de Nueva Eridu. Su influencia es tal que actúan como rivales directos de las autoridades municipales.
 
-- **[[High Ambitions Corp]]:** Liderada por el "Cetro de Plomo" (_Lead Scepter_). Se encarga de la formación académica y la industria del entretenimiento.
+## 🏛️ Gobernanza: El Triunvirato (The Three Pacts)
+
+La mesa redonda que dirige el consorcio está compuesta por tres pilares fundamentales, bajo la autoridad máxima de **The Head** (actualmente "dormido"):
+
+- **[[High Ambitions Corp]]:** Liderada por el "Cetro de Plomo" (_Lead Scepter_). Encargada de la formación académica y la industria del entretenimiento.
     
 - **[[Rusty Cliff]]:** Bajo el mando de **[[Edmund]]** ("Anillo de Cobre").
     
-- **Tercera Corporación:** Dirigida por la "Corona de Estaño" (_Tin Crown_). Su nombre oficial permanece bajo secreto.
+- **Tercera Corporación:** Dirigida por la "Corona de Estaño" (_Tin Crown_). Su nombre permanece bajo secreto.
     
 
-## ⚖️ Supervisión y Cumplimiento
+## ⚖️ La Regla de la Eficiencia (Supervisión)
 
-- **[[Krampus Authority]]:** Es la autoridad de cumplimiento que garantiza que los miembros de la alianza mantengan los estándares de poder exigidos.
+La alianza se rige por un sistema de méritos implacable gestionado por la **[[Krampus Authority]]**:
+
+- **Evaluaciones:** Auditan regularmente el rendimiento de sus miembros.
     
-    - **Liderazgo:** Desconocido.
+- **Expulsión:** Si la influencia de una corporación declina, es expulsada sin piedad, como ocurrió con la **Familia Ravenlock**, la facción **[[Faccion Cumbre Yunkui]]** y la corporación **Fugue**.
+    
+- **Cuerpo Judicial:** [[Dialyn]] (Juez) y [[Promeia]] (Ejecutora).
+    
+
+---
+
+## 2. Nuevo Índice: 
+
+
+# 🏛️ Alianza TOPS (The Outstanding Paragons)
+
+## 🏢 Corporaciones Miembro (Nodos de Influencia)
+
+- **[[Jonathan Consortium]]:** Gigante farmacéutico (Familia Thymefield y JC Pharmacy).
+    
+- **[[High Ambitions Corp]]:** Líder en educación y entretenimiento.
+    
+- **[[Marcel Group]]:** Dueños de _St. Leen_ y _Splash Cola_.
+    
+- **[[Three Gates Corp]]:** Tecnología militar, construcción e industria pesada.
+    
+- **[[SREC]]:** División de recursos y energía.
+    
+- **[[Rusty Cliff]]:** Pilar del Triunvirato.
+    
+
+## 🎓 Instituciones Relacionadas
+
+- **[[High Ambitions Academy]]:** Centro de formación de élite.
+    
+- **[[Localización Celestia School for Girls]]:** Conectada a través de [[Luciana de Montefio]] y [[Vivian Banshee]].
+    
+
+## ⚖️ Autoridades y Cumplimiento
+
+- **[[Krampus Authority]]:** Garantía de estándares de poder.
+    
+    - **Juez:** [[Dialyn]].
         
-    - **Cuerpo Judicial:** [[Dialyn]] (Juez) y [[Promeia]] (Ejecutora).
+    - **Ejecutora:** [[Promeia]].
         
 
-## 🏢 Miembros del Consorcio (Nodos de Influencia)
+## 🚫 Historial de Expulsión (Nodos Desconectados)
 
-Estas entidades forman parte de la red de la alianza y expanden su control por toda Nueva Eridu:
-
-- **[[Jonathan Consortium]]:** El gigante farmacéutico que incluye a la **Familia Thymefield** y **JC Pharmacy**.
+- **[[Faccion Cumbre Yunkui]]**.
     
-- **[[Marcel Group]]:** Conglomerado dueño de _St. Leen_ y la división de bebidas _Splash Cola_.
+- **Familia Ravenlock**.
     
-- **[[Three Gates Corp]]:** Especialistas en tecnología militar, construcción e industrias pesadas.
-    
-- **[[SREC]]:** División de recursos y energía de la alianza.
-    
-
-## 🖇️ Conexiones Estratégicas (Gráfico)
-
-- **Puente Educativo:** [[Luciana de Montefio]] y [[Vivian Banshee]] conectan esta nota con las facciones externas debido a su pasado en la _Celestia School_.
-    
-- **Historial de Expulsión:** La **Familia Ravenlock** y la corporación **Fugue** aparecen como nodos desconectados tras perder su estatus.
+- **Corporación Fugue**.

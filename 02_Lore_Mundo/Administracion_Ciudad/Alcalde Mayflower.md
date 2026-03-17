@@ -40,6 +40,6 @@ El Alcalde es una figura sin rostro pero con una influencia inmensa. Es el patri
 | **Protector** | [[Phaethon]]              | Les proporciona tecnología y cobertura política.     |
 | **Amistad**   | **[[Carole Arna]]**       | Fuente de su conocimiento sobre el Éter y la H.D.D.  |
 | **Enemistad** | [[The Exaltists]]         | Conflicto ideológico y por el control de la ciudad.  |
-| **Rivalidad** | **[[TOPS]]**              | Lucha de poder dentro de la administración.          |
+| **Rivalidad** | **[[TOPS Alliance]]**              | Lucha de poder dentro de la administración.          |
 
 ---

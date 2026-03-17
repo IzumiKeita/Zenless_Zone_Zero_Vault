@@ -1,6 +1,6 @@
 # ⚖️ Agente: Dialyn
 
-**Rango:** S | **Atributo:** Físico | **Especialidad:** Aturdimiento **Afiliación:** [[Krampus Authority]] (Autoridad de Cumplimiento) / [[TOPS]] **Identidad Pública:** Representante de Atención al Cliente (Nº 2493)
+**Rango:** S | **Atributo:** Físico | **Especialidad:** Aturdimiento **Afiliación:** [[Krampus Authority]] (Autoridad de Cumplimiento) / [[TOPS Alliance]] **Identidad Pública:** Representante de Atención al Cliente (Nº 2493)
 
 > "Escucho las voces de los muertos... porque ellos son los únicos que nunca mienten."
 
@@ -49,4 +49,4 @@ Su estilo de lucha es una mezcla de tecnología de comunicación antigua y manip
     
 - **[[Phaethon]]:** Ha colaborado con ellos en la Península de Waifei, utilizando sus habilidades para desentrañar conspiraciones corporativas.
     
-- **[[TOPS]]:** Es su empleador oficial, aunque ella es quien vigila que los altos mandos no se desvíen de las reglas.
+- **[[TOPS Alliance]]:** Es su empleador oficial, aunque ella es quien vigila que los altos mandos no se desvíen de las reglas.

@@ -1,12 +1,12 @@
 # ⚖️ Facción: Krampus Compliance Authority
 
-**Subsidiaria de:** [[TOPS Alliance]] / [[TOPS]]
+**Subsidiaria de:** [[TOPS Alliance]] / [[TOPS Alliance]]
 
 > "Vigilamos la Mesa Redonda. Nadie está por sobre las reglas del consorcio."
 
 ## 📋 Descripción y Propósito
 
-A diferencia de otras ramas de [[TOPS]], **Krampus** no es una empresa comercial, sino una **organización autorreguladora**. Su misión es supervisar todas las acciones de los miembros de la Alianza para asegurar que, sin importar cuán despiadadas o moralmente dudosas sean, sigan las reglas fundamentales e intereses de [[TOPS Alliance]].
+A diferencia de otras ramas de [[TOPS Alliance]], **Krampus** no es una empresa comercial, sino una **organización autorreguladora**. Su misión es supervisar todas las acciones de los miembros de la Alianza para asegurar que, sin importar cuán despiadadas o moralmente dudosas sean, sigan las reglas fundamentales e intereses de [[TOPS Alliance]].
 
 - **Intervención y Castigo:** Si se rompen las reglas centrales, Krampus interviene para castigar a los infractores.
     

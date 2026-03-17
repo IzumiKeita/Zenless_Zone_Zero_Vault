@@ -31,7 +31,7 @@ Youkai ha sido el motor detrás de los eventos más oscuros del Capítulo 6 y el
     
 2. **El Mensajero:** Ayudó a manifestar al "Mensajero del Creador", una entidad de Miasma formada a partir del cuerpo de Sarah y los poderes de Sunbringer.
     
-3. **Servicio Corporativo:** Tras la muerte de Lockspring, Youkai se trasladó a Nueva Eridu para servir directamente al líder de **[[High Ambitions Corp]]**, consolidando la unión entre la tecnología prohibida de las Llaves y el poder de [[TOPS]].
+3. **Servicio Corporativo:** Tras la muerte de Lockspring, Youkai se trasladó a Nueva Eridu para servir directamente al líder de **[[High Ambitions Corp]]**, consolidando la unión entre la tecnología prohibida de las Llaves y el poder de [[TOPS Alliance]].
     
 
 ---
