@@ -8,17 +8,52 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< Updated upstream
             "id": "9722da38c62a1e70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "06_TOPS/TOPS Alliance.md",
+=======
+            "id": "03cc08526fd947e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "e8af7a3944bc5a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "TOPS Alliance"
+=======
+              "title": "Soldado11"
+>>>>>>> Stashed changes
+            }
+          },
+          {
+            "id": "0dcfa8827986cbdb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
             }
           }
         ]
@@ -246,6 +281,7 @@
       "juggl:Juggl global graph": false
     }
   },
+<<<<<<< Updated upstream
   "active": "9722da38c62a1e70",
   "lastOpenFiles": [
     "01_Facciones/Defensa_Nueva_Eridu/Fuerza Defensa Plata.md",
@@ -279,6 +315,39 @@
     "01_Facciones/Defensa_Nueva_Eridu",
     "Zenless_Zone_Zero_Vault",
     "04_Enemigos/Ecos_de_la_Cavidad/Jefes",
+=======
+  "active": "03cc08526fd947e6",
+  "lastOpenFiles": [
+    "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
+    "01_Facciones/Phaethon.md",
+    "01_Facciones/Defensa_Nueva_Eridu/Fuerza Defensa Plata.md",
+    "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md",
+    "00_Agentes/01_Liebres_Astutas/Anby/Soldado 0 - Anby.md",
+    "01_Facciones/Defensa_Nueva_Eridu",
+    "00_Agentes/00_Phaethon/Wise/Wise.md",
+    "00_Agentes/10_Mockingbird/Vivian/Vivian Banshee.md",
+    "Zenless_Zone_Zero_Vault",
+    "04_Enemigos/Ecos_de_la_Cavidad/Jefes/Tepes.md",
+    "04_Enemigos/The_Exaltists/Mevorakh.md",
+    "04_Enemigos/Ecos_de_la_Cavidad/Jefes/Ye Shiyuan the Thrall.md",
+    "04_Enemigos/Ecos_de_la_Cavidad/The Creator.md",
+    "04_Enemigos/Ecos_de_la_Cavidad/Jefes",
+    "04_Enemigos/Ecos_de_la_Cavidad/Dina.md",
+    "08_Cultos/00_The_Exaltis/Landon.md",
+    "Los Exaltistas.md",
+    "08_Cultos/00_The_Exaltis/The Exaltists.md",
+    "02_Lore_Mundo/Inter-Knot.md",
+    "01_Facciones/Proxy.md",
+    "Inter-Knot.md",
+    "05_Phaethon_System/H.D.D..md",
+    "Proxy.md",
+    "02_Lore_Mundo/Academia Helios.md",
+    "00_Agentes/00_Phaethon/Belle/Belle.md",
+    "00_Agentes/00_Phaethon/Fairy.md",
+    "00_Agentes/00_Phaethon/Eous.md",
+    "00_Agentes/13_Krampus_Compliance/Dialyn/Dialyn.md",
+    "06_TOPS/Krampus Authority.md",
+>>>>>>> Stashed changes
     "02_Lore_Mundo/Tecnologia_Eterica",
     "03_Localizaciones/Nueva Eridu/Janus",
     "04_Enemigos/Facciones_Secundarias",
