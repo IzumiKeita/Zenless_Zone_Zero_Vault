@@ -36,4 +36,4 @@ El título de **Qingming Arbiter** no es solo un honor otorgado por la alcaldesa
     
 - **[[Void Hunters]]:** Comparte el estatus de élite con personajes como **[[Hoshimi Miyabi]]**.
     
-- **[[Throne Quarter]]:** Al ser una Void Hunter oficial, tiene conexiones directas con la administración de la ciudad y HAND.
+- **[[Throne Quarter]]:** Al ser una Void Hunter oficial, tiene conexiones directas con la administración de la ciudad y [[H.A.N.D.]]

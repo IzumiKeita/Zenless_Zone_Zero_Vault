@@ -69,7 +69,7 @@
 ### El drama de las réplicas
 
 - Se crea el [[Fuerza Defensa Plata]].
-- [[Anby - Soldado 0]] (Soldado 0) se “suicida” para salvar a [[Soldado11]].
+- [[Anby - Soldado 0]] (Soldado 0) se “suicida” para salvar a [[Soldado 11]].
 - Es rescatada por [[Nicole Demara]]; juntas fundan [[Liebres Astutas]].
 
 ### Mockingbird
@@ -96,5 +96,5 @@
 
 - [[Carole Arna]]: conecta a los Proxies con [[Academia Helios]] y [[The Exaltists]].
 - [[Landon]]: punto de origen para [[Vivian Banshee]], [[Dina]] y el Suero de Sacrificio.
-- [[Fuerza Defensa Plata]]: nexo entre [[Anby - Soldado 0]], [[Soldado11]] y la División de Obsidiana.
+- [[Fuerza Defensa Plata]]: nexo entre [[Anby - Soldado 0]], [[Soldado 11]] y la División de Obsidiana.
 - [[Justin Bringer]]: conexión entre [[Zhu Yuan]] y [[The Exaltists]].

@@ -1,6 +1,6 @@
 # 👮‍♀️ Agente: Zhu Yuan
 
-**Rango:** S | **Atributo:** Éter | **Especialidad:** Ataque **Rol:** Capitana del [[Equipo de Respuesta Especial de Investigación Criminal]] **Identificador:** Oficial 148
+**Rango:** S | **Atributo:** Éter | **Especialidad:** Ataque **Rol:** Capitana del [[Equipo de Respuesta Especial de Investigación Criminal.]] **Identificador:** Oficial 148
 
 > "Capitana Zhu Yuan, lista para el despliegue. Si necesita ayuda, no dude en contactarme."
 

@@ -41,7 +41,7 @@ El mayor secreto de la división es el destino del **Proyecto Réplica**.
 
 - **[[Soldado 0 - Anby]] (Soldado 0):** Ex-capitana del Silver Squad. Para la División, ella es un activo perdido o un error que debe ser borrado.
     
-- **[[Soldado11]]:** La "hermana" que se quedó. Representa la lealtad ciega a los ideales de Obsidiana y el desprecio hacia quienes "desertaron".
+- **[[Soldado 11]]:** La "hermana" que se quedó. Representa la lealtad ciega a los ideales de Obsidiana y el desprecio hacia quienes "desertaron".
     
 
 ---
@@ -50,7 +50,7 @@ El mayor secreto de la división es el destino del **Proyecto Réplica**.
 
 - **Anby - Soldado 0:** El vínculo de **"Desertora"**. Conecta la milicia con las **[[Liebres Astutas]]**.
     
-- **[[Soldado11]]:** El vínculo de **"Lealtad"**. Mantiene el nodo de Obsidiana activo y peligroso.
+- **[[Soldado 11]]:** El vínculo de **"Lealtad"**. Mantiene el nodo de Obsidiana activo y peligroso.
     
 - **[[Hollow Zero]]:** El nodo de **"Origen"**. Sin este desastre, Obsidiana sería solo una división más.
     

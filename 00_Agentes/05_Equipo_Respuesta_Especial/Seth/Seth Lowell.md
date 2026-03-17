@@ -47,4 +47,4 @@ Su equipamiento está diseñado para la protección total y el soporte táctico:
     
 - **[[Phaethon]]:** A diferencia de la postura oficial, Seth los respeta y reconoce que, sin los Proxies, muchas vidas se perderían en las Cavidades.
     
-- **[[Seguridad Pública]]:** Representa la nueva generación de oficiales que buscan humanizar la fuerza.
+- **[[Seguridad Publica de Nueva Eridu]]:** Representa la nueva generación de oficiales que buscan humanizar la fuerza.

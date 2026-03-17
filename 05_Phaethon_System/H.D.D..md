@@ -1,3 +1,9 @@
+---
+aliases:
+  - Hollow Deep Dive (HDD)
+---
+
+
 # 🖥️ Tecnología: Hollow Deep Dive System (HDD)
 
 **Ubicación:** [[Random Play]] (Video Store) | **Tipo:** Sistema de Sincronización Sensorial **Estado:** Prototipo Versión 4_H | **Autores del Código:** "BW" ([[Belle]] & [[Wise]])

@@ -26,7 +26,7 @@ El Silver Squad no era una unidad militar convencional, sino un experimento para
 | **Código**     | **Identidad Actual**     | **Estatus** | **Notas**                                                                               |
 | -------------- | ------------------------ | ----------- | --------------------------------------------------------------------------------------- |
 | **Soldado 0**  | **[[Soldado 0 - Anby]]** | Activa      | Líder original. Ahora en las [[Liebres Astutas]]. Rechaza el regreso de la unidad.      |
-| **Soldado 11** | **[[Soldado11]]**        | Activa      | Miembro del [[Escuadron Obol]]. Mantiene la disciplina y busca a los "traidores".       |
+| **Soldado 11** | **[[Soldado 11]]**        | Activa      | Miembro del [[Escuadron Obol]]. Mantiene la disciplina y busca a los "traidores".       |
 | **Twiggy**     | **Fallecida**            | Enemigo     | Perdió sus extremidades, sobrevivió en el mercado negro e intentó recrear el escuadrón. |
 | **Girl A**     | **Fallecida**            | Miembro     | Parte de la versión reformada de Silver Squad que fue detenida.                         |
 
@@ -49,7 +49,7 @@ El Silver Squad representa el lado más turbio de la **[[División Obsidiana]]**
 
 - **[[Soldado 0 - Anby]]:** Conexión de **Pasado Oculto**. Ella es el "Soldado 0" que escapó del destino de la unidad.
     
-- **[[Soldado11]]:** Conexión de **Espejo/Rivalidad**. Representa lo que Anby sería si nunca hubiera dejado el ejército.
+- **[[Soldado 11]]:** Conexión de **Espejo/Rivalidad**. Representa lo que Anby sería si nunca hubiera dejado el ejército.
     
 - **[[Escuadron Obol]]:** La unidad actual donde opera Soldado 11, heredera de las tácticas del Silver Squad.
     

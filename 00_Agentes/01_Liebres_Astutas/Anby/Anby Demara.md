@@ -26,7 +26,7 @@ Anby es una joven cuyo pasado y edad son un misterio para el público general, d
 
 Aunque ahora vive una vida simple, su trasfondo está ligado a la **División de Obsidiana** y al **Proyecto de Réplicas**.
 
-- **Rescate:** Fue encontrada por [[Nicole Demara]] en las ruinas de la Vieja Capital tras un intento de suicidio para salvar a su "hermana" [[Soldado11]].
+- **Rescate:** Fue encontrada por [[Nicole Demara]] en las ruinas de la Vieja Capital tras un intento de suicidio para salvar a su "hermana" [[Soldado 11]].
     
 - **Identidad Adoptada:** Nicole la acogió como el primer miembro de _Gentle House_ y le otorgó su propio apellido, **Demara**.
     

@@ -47,4 +47,4 @@ El nombre proviene de la figura mitológica del folclore alpino, el **Krampus**,
     
 - **[[High Ambitions Corp]]:** Supervisan que incluso los "Tres Pactos" cumplan con la normativa.
     
-- **[[Enemigos]]:** Puedes conectar esta nota con tu carpeta `04_Enemigos` si consideras que su rol de "verdugos" corporativos chocará con los protagonistas.
+- **Enemigos:** Puedes conectar esta nota con tu carpeta `04_Enemigos` si consideras que su rol de "verdugos" corporativos chocará con los protagonistas.

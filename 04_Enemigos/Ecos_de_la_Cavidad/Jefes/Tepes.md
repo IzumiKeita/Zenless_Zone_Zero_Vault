@@ -1,6 +1,6 @@
 # 🧛 Jefe: Tepes
 
-**Categoría:** Etéreo de Mutación Inducida | **Raza:** Humano Corrupto (Ex-Dina) **Origen:** [[Barrio Janus]] | **Facción:** [[The Exaltists]] **Vínculo:** Forma final de [[Dina]]
+**Categoría:** Etéreo de Mutación Inducida | **Raza:** Humano Corrupto (Ex-Dina) **Origen:** [[Janus Quarter]] | **Facción:** [[The Exaltists]] **Vínculo:** Forma final de [[Dina]]
 
 > "Una ascensión nacida del odio, una corona hecha de cenizas etéreas."
 

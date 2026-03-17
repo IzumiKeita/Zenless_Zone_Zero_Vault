@@ -33,4 +33,4 @@ Antes de la caída de la Vieja Capital, este grupo representaba el pináculo de 
 
 - **Sujeto 0:** Actualmente conocida como **[[Anby Demara]]**. Tras el incidente de la Vieja Capital, fue dada por muerta y su cuerpo desechado.
     
-- **[[Soldado11]]:** La única unidad que permanece activa y bajo el control directo de las fuerzas especiales (Obol Squad).
+- **[[Soldado 11]]:** La única unidad que permanece activa y bajo el control directo de las fuerzas especiales (Obol Squad).

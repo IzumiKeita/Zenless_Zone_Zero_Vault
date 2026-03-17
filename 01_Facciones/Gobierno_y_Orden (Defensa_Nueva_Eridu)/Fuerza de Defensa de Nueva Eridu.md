@@ -1,9 +1,3 @@
-Esta información es el complemento perfecto para la nota de la **N.E.P.S.**, pero enfocada en el brazo militar pesado: la **N.E.D.F. (Fuerza de Defensa de Nueva Eridu)**. Mientras la policía (NEPS) cuida las calles, la Defensa se encarga de las amenazas a escala de guerra y de los secretos más oscuros de la **División Obsidiana**.
-
-Aquí tienes la ficha para tu carpeta **`01_Facciones / 02_Defensa_Nueva_Eridu`**:
-
----
-
 # 🎖️ Facción: Fuerza de Defensa de Nueva Eridu (N.E.D.F.)
 
 **Tipo:** Organización Militar de Élite
@@ -42,8 +36,8 @@ Históricamente, la Defensa tenía múltiples divisiones, pero la **Caída de la
 
 | **Escuadrón**                | **Descripción**                                                                   | **Miembros Destacados**                                 |
 | ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **[[Fuerza Defensa Plata]]** | (Escuadrón Plateado) Antiguo equipo de réplicas. Casi aniquilado.                 | **[[Soldado 0 - Anby]]** (Soldado 0), **[[Soldado11]]** |
-| **[[Escuadron Obol]]**       | (Escuadrón Óbolo) Unidad táctica de élite especializada en incursiones profundas. | **[[Soldado11]]**, **[[Trigger]]**, **[[Magus]]**       |
+| **[[Fuerza Defensa Plata]]** | (Escuadrón Plateado) Antiguo equipo de réplicas. Casi aniquilado.                 | **[[Soldado 0 - Anby]]** (Soldado 0), **[[Soldado 11]]** |
+| **[[Escuadron Obol]]**       | (Escuadrón Óbolo) Unidad táctica de élite especializada en incursiones profundas. | **[[Soldado 11]]**, **[[Trigger]]**, **[[Magus]]**       |
 
 > 💡 **Nota de Gameplay:** Para efectos de sinergia en combate, todos los agentes de la N.E.D.F. cuentan como la misma facción. Por ejemplo, la habilidad pasiva de **Soldier 11** se activa si **Anby** está en el equipo, aunque pertenezcan a escuadrones distintos.
 
@@ -66,7 +60,7 @@ La N.E.D.F. es vista con desconfianza por los ciudadanos de Nueva Eridu:
 
 - **[[Anby Demara]]:** El hilo que une la Defensa con la vida civil y las **[[Liebres Astutas]]**.
     
-- **[[Soldado11]]:** El soldado leal que encarna los valores (y el peligro) de la **División Obsidiana**.
+- **[[Soldado 11]]:** El soldado leal que encarna los valores (y el peligro) de la **División Obsidiana**.
     
 - **[[Hollow Zero]]:** El lugar que definió la historia de la facción y eliminó a las demás divisiones.
     

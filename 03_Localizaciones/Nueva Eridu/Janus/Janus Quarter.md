@@ -32,7 +32,7 @@ Para tu gráfico, puedes agrupar estas localizaciones como "hijos" del Janus Qua
 
 - **[[Phaethon]]:** Su nodo de localización debe apuntar directamente a **Calle Sexta**.
     
-- **[[New Eridu Public Security]]:** Su cuartel general operativo para la zona está en **Lumina Square** (donde trabajan Zhu Yuan y Qingyi).
+- **[[Fuerza de Defensa de Nueva Eridu]]:** Su cuartel general operativo para la zona está en **Lumina Square** (donde trabajan Zhu Yuan y Qingyi).
     
 - **[[White Star Institute]]:** Operan desde el **Scott Outpost**, el borde más peligroso del distrito que conecta con Hollow Zero.
     

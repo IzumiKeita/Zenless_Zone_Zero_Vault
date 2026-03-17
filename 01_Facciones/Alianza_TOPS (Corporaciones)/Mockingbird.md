@@ -37,6 +37,6 @@ Años después, Hugo refundó Mockingbird tras encontrar a **[[Vivian Banshee]]*
 
 - **[[Jack]]:** El origen de todo. Su filosofía de "robo justo" es la base moral del grupo.
     
-- **[[Espada de Damocles]]:** Metáfora usada por Hugo para describir el miedo que deben sentir los corruptos.
+- **Espada de Damocles:** Metáfora usada por Hugo para describir el miedo que deben sentir los corruptos.
     
 - **[[Vivian Banshee]]:** El nuevo rostro de Mockingbird junto a Hugo.

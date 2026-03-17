@@ -56,4 +56,4 @@ A pesar de su muerte, los efectos de sus acciones siguen plagando Nueva Eridu:
     
 - **[[Suero de Sacrificio]]:** (Nota de objeto) El catalizador de la transformación en Etéreo.
     
-- **[[Barrio Janus]]:** El escenario de sus crímenes.
+- **[[Janus Quarter]]:** El escenario de sus crímenes.

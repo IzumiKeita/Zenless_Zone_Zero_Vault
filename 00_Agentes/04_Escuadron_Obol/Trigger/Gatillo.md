@@ -45,7 +45,7 @@ Su rifle de francotirador eléctrico de grado militar no es solo una herramienta
 
 ### 🖇️ Conexiones de Lore (Para tu Grafo)
 
-- **[[Soldado11]]:** Gatillo es quien gestiona el dormitorio y tiene una fe absoluta en la voluntad de la soldado.
+- **[[Soldado 11]]:** Gatillo es quien gestiona el dormitorio y tiene una fe absoluta en la voluntad de la soldado.
     
 - **[[Phaethon]]:** Fueron amigos desde que Gatillo era una civil ciega en **Port Elpis**. Ella confía en ellos para descifrar la verdad de la Vieja Eridu.
     

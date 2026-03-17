@@ -19,7 +19,7 @@ No. 4412 no es un Bangboo común. Posee una inteligencia y determinación excepc
 
 Durante los eventos de la investigación, No. 4412 fue una pieza clave:
 
-1. **Guía de Investigación:** Ayudó a **[[Phaethon]]** y a **[[Soldado11]]** a reconstruir los eventos de hace dos años.
+1. **Guía de Investigación:** Ayudó a **[[Phaethon]]** y a **[[Soldado 11]]** a reconstruir los eventos de hace dos años.
     
 2. **Revelación:** Fue a través de sus registros que se confirmó que Alowyn era una espía rebelde que se sacrificó por sus amigos investigadores.
     
@@ -34,6 +34,6 @@ Durante los eventos de la investigación, No. 4412 fue una pieza clave:
     
 - **[[White Star Institute]]:** Su hogar actual y organización a la que sirve oficialmente.
     
-- **[[Soldado11]]:** Colaboró estrechamente con ella durante la resolución del misterio en la Falla de Arpeggio.
+- **[[Soldado 11]]:** Colaboró estrechamente con ella durante la resolución del misterio en la Falla de Arpeggio.
     
 - **[[Bangboo]]:** Representa la cumbre de la consciencia y autonomía que estos pequeños robots pueden alcanzar (tecnología heredada de **[[Sunbringer]]**).

@@ -23,7 +23,7 @@ Las unidades del Silver Squad, pertenecientes a la **División de Obsidiana**, e
     
 - **Sabotaje por Empatía:** Para evitar que sus hermanas fueran descartadas por recortes de presupuesto, Anby fallaba sus pruebas a propósito para demostrar que todo el escuadrón era necesario.
     
-- **La Misión Suicida:** Sus superiores planearon una operación para eliminar a todas las réplicas excepto a una. Anby tomó el lugar de **Harin** ([[Soldado11]]) en el despliegue tras una lesión de esta última.
+- **La Misión Suicida:** Sus superiores planearon una operación para eliminar a todas las réplicas excepto a una. Anby tomó el lugar de **Harin** ([[Soldado 11]]) en el despliegue tras una lesión de esta última.
     
 
 ### ⚔️ El Incidente de la Garganta
@@ -52,6 +52,6 @@ Tras sobrevivir a la misión y ver morir a sus hermanas, recibió la orden de ej
 
 ### 🖇️ Relaciones Post-Recuerdo
 
-- **[[Soldado11]] (Harin):** Tras recuperar su memoria, Anby pidió a Nicole investigar su paradero. Al descubrir que es una soldado ejemplar en el **Obol Squad**, decidió no contactarla para no cargarla con el peso de su pasado compartido.
+- **[[Soldado 11]] (Harin):** Tras recuperar su memoria, Anby pidió a Nicole investigar su paradero. Al descubrir que es una soldado ejemplar en el **Obol Squad**, decidió no contactarla para no cargarla con el peso de su pasado compartido.
     
 - **[[Nicole Demara]]:** La encontró en las ruinas, le dio su apellido y la convirtió en el primer miembro de Gentle House ([[Liebres Astutas]]).
