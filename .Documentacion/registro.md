@@ -1,5 +1,11 @@
 # Registro de cambios del Vault
 
+## 2026-03-17
+
+- Se reorganizó `Anby - Soldado 0.md` para incluir un “Resumen de perfil” y eliminar duplicados en el apartado de Gemina.
+- Se fusionaron `Anby Demara.md` y `Soldado 0 - Anby.md` en `Anby - Soldado 0.md` (perfil, historia, relaciones y curiosidades).
+- Se agregó `/.obsidian/graph.json` a `.gitignore` y se quitó del índice de Git para que no se vuelva a subir.
+
 ## 2026-03-16
 
 - Se expandió [[The Keys]] con secciones de “Resumen rápido”, “Confirmado vs Inferido”, capacidades, límites y checklist de seguimiento.

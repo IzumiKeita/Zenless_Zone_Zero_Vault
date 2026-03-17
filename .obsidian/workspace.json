@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce23588a762c5db9",
+        "id": "38f73109f9125156",
         "type": "tabs",
         "children": [
           {
-            "id": "bd068bf1c2827452",
+            "id": "67e56873307f4bba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Anby Demara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anby Demara"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anby Demara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Anby Demara"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anby Demara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Anby Demara"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Anby Demara.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Anby Demara"
             }
           },
           {
@@ -198,12 +205,19 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "bd068bf1c2827452",
+  "active": "67e56873307f4bba",
   "lastOpenFiles": [
+    "Cronologia Maestra.md",
+    "Anby Demara.md",
+    "00_Agentes/04_Escuadron_Obol/Trigger/Gatillo.md",
+    "00_Agentes/04_Escuadron_Obol/Soldado_11/Soldado11.md",
+    "00_Agentes/01_Liebres_Astutas/Anby/Anby - Soldado 0.md",
+    "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md",
+    "00_Agentes/01_Liebres_Astutas/Anby/Soldado 0 - Anby.md",
+    "06_TOPS/Localización Celestia School for Girls.md",
+    "01_Facciones/Celestia School for Girls.md",
     "07_Academia_Helios/Professor Arche.md",
     "07_Academia_Helios/Carole Arna.md",
-    "08_Cultos/00_The_Exaltis/Exaltist Overseer.md",
-    "00_Agentes/01_Liebres_Astutas/Anby/Soldado 0 - Anby.md",
-    "00_Agentes/01_Liebres_Astutas/Anby/Anby Demara.md"
+    "08_Cultos/00_The_Exaltis/Exaltist Overseer.md"
   ]
 }
