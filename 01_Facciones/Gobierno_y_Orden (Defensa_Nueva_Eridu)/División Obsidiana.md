@@ -30,7 +30,7 @@ La división se ramifica en escuadrones con propósitos específicos. Algunos si
 
 - **[[Fuerza Defensa Plata]] (Escuadrón Plateado):** El polémico proyecto de réplicas. Oficialmente aniquilado tras una misión suicida.
     
-- **Nemesis Squad:** Unidad de francotiradores eliminada durante la Caída de la Antigua Capital (donde servía la compañera de **[[Trigger]]**).
+- **Nemesis Squad:** Unidad de francotiradores eliminada durante la Caída de la Antigua Capital (donde servía la compañera de **[[Gatillo]]**).
     
 
 ---
@@ -54,4 +54,4 @@ El mayor secreto de la división es el destino del **Proyecto Réplica**.
     
 - **[[Hollow Zero]]:** El nodo de **"Origen"**. Sin este desastre, Obsidiana sería solo una división más.
     
-- **[[Trigger]]:** Conexión de **"Investigación"**. Como superviviente de Nemesis Squad, es el hilo que busca la verdad tras las decisiones de los altos mandos.
+- **[[Gatillo]]:** Conexión de **"Investigación"**. Como superviviente de Nemesis Squad, es el hilo que busca la verdad tras las decisiones de los altos mandos.
