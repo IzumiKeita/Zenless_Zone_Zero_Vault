@@ -11,17 +11,28 @@
             "id": "5cce8a704d2d9d0f",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "7d15f56b8ec82ba5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Facciones/Grupos_Civiles_y_Proxies/Proxy.md",
-                "mode": "source",
+                "file": "Sin título.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy"
+              "title": "Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 603.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "b692679d708ef67c",
@@ -205,9 +217,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5cce8a704d2d9d0f",
+  "active": "7d15f56b8ec82ba5",
   "lastOpenFiles": [
+    "Sin título.md",
     "copilot/copilot-conversations/hola@20260317_233125.md",
+    "01_Facciones/Grupos_Civiles_y_Proxies/Proxy.md",
     "copilot/copilot-conversations/que_puedes_hacer_dentro_de_obsidian@20260317_232207.md",
     "copilot/copilot-conversations/sabes_que_es_un_canvas@20260317_231537.md",
     "copilot/copilot-conversations/puedes_ayudarme_a_crear_un_canvas_mas_organizado@20260317_230950.md",
@@ -237,8 +251,6 @@
     "06_TOPS/Gubernamental/Krampus Authority.md",
     "01_Facciones/Gobierno_y_Orden (Defensa_Nueva_Eridu)/Seguridad Publica de Nueva Eridu.md",
     "00_Agentes/11_Cumbre_Yunkui/Ye_Shunguang/Ye Shunguang.md",
-    "Seguridad Pública.md",
-    "00_Agentes/03_Victoria_Housekeeping/Lycaon/Von Lycaon.md",
     "estructura.txt",
     "01_Facciones/Militares_y_Otros",
     "01_Facciones/Nueva carpeta",

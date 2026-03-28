@@ -1,5 +1,9 @@
 # Registro de cambios del Vault
 
+## 2026-03-28
+
+- Se agregó `README.md` en la raíz con instrucciones para descargar y abrir el Vault en Obsidian.
+
 ## 2026-03-17
 
 - Se reorganizó `Anby - Soldado 0.md` para incluir un “Resumen de perfil” y eliminar duplicados en el apartado de Gemina.
