@@ -8,10 +8,22 @@ Este repositorio es un Vault de Obsidian para organizar lore, personajes, faccio
 
 ## Cómo usarlo en Obsidian
 
-1. Descarga el repositorio (ZIP) o clónalo.
-2. Descomprime (si aplica) y deja la carpeta completa en una ubicación local.
-3. En Obsidian: **Open folder as vault** → selecciona la carpeta raíz `Zenless_Zone_Zero_Vault`.
-4. Si Obsidian te pregunta por confianza/plug-ins, habilita lo que necesites según tu preferencia.
+1. Obtén el Vault de una de estas formas:
+   - **Descarga ZIP:** en GitHub, usa **Code → Download ZIP**.
+   - **Clonado (recomendado si vas a actualizar):**
+     - `git clone <URL-del-repo>`
+2. Coloca la carpeta del Vault en una ruta local estable (evita carpetas temporales). La carpeta debe contener subcarpetas como `00_Agentes/`, `01_Facciones/` y `.obsidian/`.
+3. Abre el Vault en Obsidian:
+   - Escritorio: **Open folder as vault** → selecciona la carpeta raíz `Zenless_Zone_Zero_Vault`.
+   - Móvil: **Open folder as vault** / **Abrir carpeta como bóveda** → elige la carpeta desde el almacenamiento del dispositivo.
+4. Si Obsidian te pregunta por **Trust this vault?**:
+   - Si confías en el origen, marca como confiable para que puedan funcionar configuraciones y plugins.
+   - Si prefieres máxima seguridad, ábrelo como no confiable (algunas funciones de plugins pueden quedar desactivadas).
+5. Si ves enlaces “rotos” al abrir por primera vez:
+   - Espera a que Obsidian termine de indexar el Vault.
+   - Revisa que no estés abriendo una subcarpeta interna por error (debe ser la carpeta raíz).
+6. (Opcional) Plugins:
+   - El Vault puede incluir configuración en `.obsidian/`. En **Settings → Community plugins**, habilita solo lo que quieras usar.
 
 ## Estructura del Vault (referencia rápida)
 

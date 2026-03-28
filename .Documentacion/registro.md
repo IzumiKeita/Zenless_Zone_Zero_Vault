@@ -2,6 +2,7 @@
 
 ## 2026-03-28
 
+- Se amplió la sección “Cómo usarlo en Obsidian” del `README.md` con instrucciones más detalladas (ZIP, clonado, confianza, plugins).
 - Se agregó `README.md` en la raíz con instrucciones para descargar y abrir el Vault en Obsidian.
 
 ## 2026-03-17
